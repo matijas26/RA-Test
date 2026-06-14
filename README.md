@@ -1,146 +1,94 @@
 # RA-Test
 
-Statička web aplikacija za vežbanje ispita za srpsku radio-amatersku licencu. Radi direktno u browseru, bez build koraka, backend servera, naloga ili eksternih biblioteka.
+RA-Test je statička web aplikacija za vežbanje pitanja za ispit za srpsku radio-amatersku licencu.
 
-## Lokalno pokretanje u VS Code
+Aplikacija je namenjena za pripremu kroz vežbanje po oblastima i simulaciju ispita. Baza pitanja je zasnovana na dostavljenom materijalu iz priručnika, pravilnika i primera testova. Projekat nije zvanična usluga RATEL-a, Saveza radio-amatera Srbije ili druge institucije.
 
-1. Otvori folder projekta `RA-Test` u VS Code.
-2. Instaliraj ekstenziju **Live Server** ako je već nemaš.
-3. Desni klik na `index.html`.
-4. Izaberi **Open with Live Server**.
+## Oblasti ispita
 
-Aplikacija može da se otvori i direktno iz fajla, ali Live Server bolje simulira GitHub Pages okruženje.
+Ispit je podeljen u tri oblasti:
 
-## Objavljivanje na GitHub Pages
+- A - Poznavanje tehnike
+- B - Nacionalni i međunarodni pravilnici i postupci
+- C - Nacionalni i međunarodni propisi o amaterskoj i amaterskoj satelitskoj službi
 
-1. Napravi GitHub repozitorijum i pošalji ove fajlove u njega.
-2. U repozitorijumu otvori **Settings**.
-3. Izaberi **Pages**.
-4. Kao source izaberi granu, najčešće `main`, i folder `/root`.
-5. Sačuvaj podešavanje.
+## Simulacija ispita
 
-GitHub će prikazati URL na kome je aplikacija dostupna. Fajl `.nojekyll` je dodat da GitHub Pages ne koristi Jekyll obradu.
+Simulacija koristi strukturu ispita po oblastima:
 
-## Profili kandidata
+- A: 30 pitanja, prag za prolaz 21 tačan odgovor
+- B: 15 pitanja, prag za prolaz 11 tačnih odgovora
+- C: 15 pitanja, prag za prolaz 11 tačnih odgovora
 
-Profili kandidata nisu pravi korisnički nalozi. Ne postoje lozinke, prijava, autentifikacija ni backend. Profil je samo ime sačuvano u `localStorage` trenutnog browsera.
+Ukupan rezultat nije dovoljan sam po sebi. Kandidat prolazi samo ako pojedinačno položi sve tri oblasti.
 
-Na početnoj strani možeš:
+## Vežbanje
 
-- dodati novo ime kandidata
-- izabrati postojećeg kandidata
-- pokrenuti ispit tek kada je kandidat izabran
-- obrisati jedan profil kandidata uz potvrdu
+Režim vežbanja omogućava izbor oblasti A, B ili C. Posle odgovora prikazuje se tačan odgovor i objašnjenje, pa je ovaj režim pogodan za učenje i ponavljanje gradiva.
 
-Brisanje profila kandidata briše i njegove lokalno sačuvane rezultate.
+## Podaci i privatnost
 
-## Autosave testa
+RA-Test nema server, login, lozinke niti online bazu podataka. Kandidatski profili, rezultati, statistika i nezavršeni test čuvaju se lokalno u browseru kroz `localStorage`.
 
-Tokom aktivnog ispita aplikacija automatski čuva nezavršen test u `localStorage` posle svakog odgovora, promene pitanja i otkucaja tajmera.
+Podaci ostaju samo na uređaju i u browseru u kome je aplikacija korišćena. Brisanjem podataka browsera brišu se i lokalni profili i statistika.
 
-Čuva se:
+## Verzija baze pitanja
 
-- ime kandidata
-- izabrana pitanja sa već izmešanim odgovorima
-- trenutno pitanje
-- uneti odgovori
-- vreme početka testa
-- preostalo vreme
+Trenutna produkciona verzija baze pitanja je `2.0.1`.
 
-Ako postoji nezavršen test, pri otvaranju aplikacije prikazuje se poruka sa opcijama **Nastavi test** i **Odbaci test**. Nastavak vraća isti redosled pitanja, izmešane odgovore, izabrane odgovore i preostalo vreme. Završetak testa, ručno ili istekom vremena, briše aktivni autosave.
+Trenutni broj pitanja:
 
-## Statistika
+- A: 458
+- B: 186
+- C: 126
+- Ukupno: 770
 
-Po završetku ispita aplikacija lokalno čuva pokušaj pod izabranim kandidatom:
+## Kako se koristi
 
-- ime kandidata
-- ISO datum i vreme završetka
-- ukupan rezultat
-- rezultate oblasti A, B i C
-- status položeno/nije položeno
-- oblasti koje nisu položene
-- potrošeno vreme u sekundama
-- ID-jeve pogrešno odgovornih pitanja
-- verziju seta pitanja
+1. Otvori sajt u browseru.
+2. Kreiraj ili izaberi profil kandidata, ako je dostupan.
+3. Izaberi vežbanje po oblasti ili simulaciju ispita.
+4. Odgovori na pitanja.
+5. Pregledaj rezultat, greške i statistiku.
 
-Ekran **Statistika** prikazuje zbirne podatke za sve kandidate ili za jednog izabranog kandidata, kao i tabelu poređenja kandidata:
+## Lokalno pokretanje
 
-- broj pokušaja
-- najbolji rezultat
-- prosečan rezultat
-- broj položenih i nepoloženih pokušaja
-- prosek po oblastima A/B/C
-- datum poslednjeg pokušaja
-- listu skorašnjih pokušaja
+Aplikacija je statička i može da radi kao GitHub Pages sajt. Za lokalno pokretanje može se koristiti bilo koji jednostavan static server.
 
-Statistika je i dalje samo lokalna. Aplikacija ne šalje podatke na server i ne koristi login. Svi profili, pokušaji i aktivni autosave čuvaju se samo u `localStorage` trenutnog browsera i uređaja.
+Primer sa Node.js:
 
-## Export i import
-
-Dugme **Export JSON** preuzima lokalne profile i pokušaje kao `ra-test-statistika.json`.
-
-Dugme **Import JSON** učitava JSON koji je prethodno izvezao RA-Test. Import očekuje objekat sa nizovima `profiles` i `attempts`. Profili se spajaju bez duplikata, a pokušaji se dodaju postojećoj statistici. Neispravan fajl neće srušiti aplikaciju; prikazuje se poruka o uspehu ili grešci.
-
-Dugme **Obriši statistiku** briše sve lokalno sačuvane pokušaje posle potvrde. Profili kandidata ostaju dostupni dok se ne obrišu pojedinačno.
-
-## Tajmer
-
-Simulacija ispita traje 60 minuta. Tokom testa prikazuje se odbrojavanje. Kada vreme istekne, test se automatski završava i rezultat se računa sa odgovorima koji su do tada uneti. Potrošeno vreme se čuva u rezultatu i statistici.
-
-## Verzija seta pitanja
-
-`questions.js` može opciono da definiše globalnu verziju seta pitanja:
-
-```js
-window.QUESTION_SET_VERSION = "1.0.0";
+```bash
+npx serve .
 ```
 
-Ako je definisana, verzija se čuva u svakom završenom pokušaju i prikazuje u skorašnjim pokušajima. Ako nije definisana, koristi se vrednost `"unknown"`.
+Primer sa Python-om:
 
-## Dodavanje pitanja
-
-Sva pitanja se nalaze u `questions.js`, u nizu `QUESTIONS`.
-
-Pitanja treba dodavati samo iz zvaničnog priručnika, pravilnika i obezbeđenih primera testova. Ne treba dodavati praktična hobi pitanja, pitanja o konkretnim uređajima, NanoVNA, Baofeng, praktičnom testiranju antena ili sadržaj van ispitnog materijala.
-
-Osnovni format pitanja:
-
-```js
-{
-  id: "A001",
-  section: "A",
-  topic: "Električna struja",
-  question: "Šta je električna struja?",
-  options: [
-    "Usmereno kretanje nosilaca elektriciteta",
-    "Kretanje neutrona",
-    "Kretanje atoma kroz izolator",
-    "Kretanje protona kroz vakuum"
-  ],
-  correct: 0,
-  explanation: "Električna struja je usmereno kretanje nosilaca elektriciteta."
-}
+```bash
+python -m http.server 8000
 ```
 
-Polje `correct` je indeks tačnog odgovora u listi `options`, počev od nule.
+Zatim otvori prikazanu lokalnu adresu u browseru.
 
-Pitanje može opciono da sadrži i:
+## Struktura projekta
 
-```js
-{
-  difficulty: "medium",
-  source: "Priručnik, str. 42"
-}
-```
+- `index.html` - osnovna HTML stranica
+- `style.css` - stilovi aplikacije
+- `app.js` - logika aplikacije
+- `questions.js` - produkciona baza pitanja koju aplikacija učitava
+- `docs/question-bank-v2/` - izvorni JSON fajlovi za održavanje baze pitanja
 
-Polja `difficulty` i `source` nisu obavezna. Ako je `source` unet, prikazuje se u objašnjenju i pregledu grešaka.
+## Održavanje baze pitanja
 
-## Potreban broj pitanja
+`questions.js` je runtime baza koju aplikacija direktno učitava. Ne treba ga ručno menjati osim ako je neophodno.
 
-Za simulaciju ispita aplikacija mora da ima najmanje:
+Kanonizovani JSON izvori nalaze se u `docs/question-bank-v2/`. Buduće izmene pitanja treba praviti u tim izvornim JSON fajlovima, zatim regenerisati `questions.js` tek posle validacije:
 
-- Oblast A: 30 pitanja, minimum za prolaz 21 tačan odgovor
-- Oblast B: 15 pitanja, minimum za prolaz 11 tačnih odgovora
-- Oblast C: 15 pitanja, minimum za prolaz 11 tačnih odgovora
+- jedinstveni ID-jevi
+- tačan format pitanja
+- tačno 4 ponuđena odgovora
+- ispravan indeks tačnog odgovora
+- očekivani broj pitanja po oblastima
 
-Korisnik polaže samo ako svaka oblast pojedinačno ispuni minimum. Ukupan broj poena sam nije dovoljan.
+## GitHub Pages
+
+Projekat je kompatibilan sa GitHub Pages jer koristi samo statičke fajlove: HTML, CSS i vanilla JavaScript. Nema build koraka, backend servisa, baze podataka ni eksternih zavisnosti.
