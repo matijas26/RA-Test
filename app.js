@@ -208,13 +208,9 @@ function startExam() {
 
   saveCandidateName(candidateName);
   saveProfiles([...loadProfiles(), candidateName]);
-  const selected = Object.entries(SECTION_INFO).flatMap(([section, info]) => {
-    return shuffle(getQuestionsBySection(section)).slice(0, info.required);
-  });
-
   state.mode = "exam";
   state.selectedCandidate = candidateName;
-  state.questions = shuffle(selected).map(prepareQuestion);
+  state.questions = buildExamQuestions().map(prepareQuestion);
   state.answers = Array(state.questions.length).fill(null);
   state.currentIndex = 0;
   state.examStartedAt = Date.now();
@@ -1050,6 +1046,155 @@ function updateRemainingTime() {
 function getQuestionsBySection(section) {
   if (!Array.isArray(window.QUESTIONS)) return [];
   return window.QUESTIONS.filter((question) => question.section === section);
+}
+
+function buildExamQuestions() {
+  return ["A", "B", "C"].flatMap((section) => selectExamSectionQuestions(section));
+}
+
+function selectExamSectionQuestions(section) {
+  const requiredCount = SECTION_INFO[section].required;
+  const sectionQuestions = getQuestionsBySection(section);
+  const selected = [];
+  const selectedIds = new Set();
+
+  getExamTopicRequirements(section).forEach((requirement) => {
+    const candidates = sectionQuestions.filter((question) => {
+      return !selectedIds.has(question.id) && requirement.matches(question);
+    });
+    shuffle(candidates).slice(0, requirement.count).forEach((question) => {
+      selected.push(question);
+      selectedIds.add(question.id);
+    });
+  });
+
+  const remaining = sectionQuestions.filter((question) => !selectedIds.has(question.id));
+  shuffle(remaining).slice(0, requiredCount - selected.length).forEach((question) => {
+    selected.push(question);
+    selectedIds.add(question.id);
+  });
+
+  return shuffle(selected).slice(0, requiredCount);
+}
+
+function getExamTopicRequirements(section) {
+  if (section === "A") {
+    return [
+      { count: 2, matches: isARfBasicsQuestion },
+      { count: 1, matches: isACalculatedQuestion }
+    ];
+  }
+  if (section === "B") {
+    return [
+      { count: 2, matches: isBProcedureBasicsQuestion }
+    ];
+  }
+  if (section === "C") {
+    return [
+      { count: 2, matches: isCPrefixQuestion },
+      { count: 2, matches: isCBandPlanQuestion }
+    ];
+  }
+  return [];
+}
+
+function isACalculatedQuestion(question) {
+  const numericId = Number(String(question.id || "").slice(1));
+  return question.section === "A" && numericId >= 399 && numericId <= 458;
+}
+
+function isARfBasicsQuestion(question) {
+  return question.section === "A" && hasQuestionKeyword(question, [
+    "frekvencija",
+    "talasna dužina",
+    "hf",
+    "vhf",
+    "uhf",
+    "modulacija",
+    "demodulacija",
+    "cw",
+    "ssb",
+    "fm",
+    "am",
+    "oznaka emisije",
+    "radio-talasi",
+    "radio talasi",
+    "radio-frekvencijski",
+    "radio frekvencijski"
+  ]);
+}
+
+function isBProcedureBasicsQuestion(question) {
+  return question.section === "B" && hasQuestionKeyword(question, [
+    "q-kod",
+    "q kod",
+    "qth",
+    "rst",
+    "qsl",
+    "cq",
+    "qrz",
+    "qrl",
+    "raport",
+    "dnevnik",
+    "utc",
+    "opšti poziv",
+    "opsti poziv",
+    "pile-up",
+    "pileup",
+    "procedur",
+    "ponašanje",
+    "ponasanje"
+  ]);
+}
+
+function isCPrefixQuestion(question) {
+  return question.section === "C" && hasQuestionKeyword(question, [
+    "prefiks",
+    "pozivnog znaka",
+    "pripada srbiji",
+    "pripada bosni",
+    "pripada hrvatskoj",
+    "pripada crnoj gori",
+    "pripada nemačkoj",
+    "pripada nemackoj",
+    "pripada austriji",
+    "pripada sloveniji",
+    "dxcc"
+  ]);
+}
+
+function isCBandPlanQuestion(question) {
+  return question.section === "C" && hasQuestionKeyword(question, [
+    "band-plan",
+    "band plan",
+    "opseg",
+    "144 mhz",
+    "432 mhz",
+    "50 mhz",
+    "28.000",
+    "29.300",
+    "145,",
+    "433,",
+    "repetitor",
+    "radio-far",
+    "radio far",
+    "simpleks",
+    "kanal",
+    "cw rad",
+    "satelitski deo",
+    "frekvencij"
+  ]);
+}
+
+function hasQuestionKeyword(question, keywords) {
+  const searchable = [
+    question.topic,
+    question.sourceRef,
+    question.question,
+    question.explanation,
+    ...(Array.isArray(question.options) ? question.options : [])
+  ].join(" ").toLocaleLowerCase("sr-Latn");
+  return keywords.some((keyword) => searchable.includes(keyword.toLocaleLowerCase("sr-Latn")));
 }
 
 function prepareQuestion(question) {
