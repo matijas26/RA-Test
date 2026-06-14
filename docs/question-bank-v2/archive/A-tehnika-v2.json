@@ -1,0 +1,572 @@
+[
+  {
+    "id": "A001",
+    "section": "A",
+    "topic": "Električne veličine i jedinice",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: osnovne električne veličine",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Osnovna jedinica električne struje je:",
+    "options": [
+      "amper",
+      "volt",
+      "om",
+      "vat"
+    ],
+    "correct": 0,
+    "explanation": "Električna struja meri se u amperima (A)."
+  },
+  {
+    "id": "A002",
+    "section": "A",
+    "topic": "Električne veličine i jedinice",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: osnovne električne veličine",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Osnovna jedinica električnog napona je:",
+    "options": [
+      "volt",
+      "amper",
+      "om",
+      "farad"
+    ],
+    "correct": 0,
+    "explanation": "Električni napon meri se u voltima (V)."
+  },
+  {
+    "id": "A003",
+    "section": "A",
+    "topic": "Električne veličine i jedinice",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: osnovne električne veličine",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Osnovna jedinica električnog otpora je:",
+    "options": [
+      "om",
+      "volt",
+      "amper",
+      "herc"
+    ],
+    "correct": 0,
+    "explanation": "Električni otpor meri se u omima (Ω)."
+  },
+  {
+    "id": "A004",
+    "section": "A",
+    "topic": "Električne veličine i jedinice",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: osnovne električne veličine",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Osnovna jedinica električne snage je:",
+    "options": [
+      "vat",
+      "volt",
+      "amper",
+      "om"
+    ],
+    "correct": 0,
+    "explanation": "Električna snaga meri se u vatima (W)."
+  },
+  {
+    "id": "A005",
+    "section": "A",
+    "topic": "Omov zakon",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: Omov zakon",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koja formula predstavlja Omov zakon?",
+    "options": [
+      "U = R · I",
+      "P = U · I",
+      "f = 1 / T",
+      "λ = c / f"
+    ],
+    "correct": 0,
+    "explanation": "Omov zakon povezuje napon, otpor i struju: U = R · I."
+  },
+  {
+    "id": "A006",
+    "section": "A",
+    "topic": "Omov zakon",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: Omov zakon",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Ako je napon 12 V, a otpor 6 Ω, struja iznosi:",
+    "options": [
+      "2 A",
+      "6 A",
+      "12 A",
+      "72 A"
+    ],
+    "correct": 0,
+    "explanation": "I = U / R = 12 V / 6 Ω = 2 A."
+  },
+  {
+    "id": "A007",
+    "section": "A",
+    "topic": "Električna snaga",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: električna snaga",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koja formula izražava električnu snagu u jednosmernom kolu?",
+    "options": [
+      "P = U · I",
+      "U = R · I",
+      "R = U · I",
+      "C = Q / U"
+    ],
+    "correct": 0,
+    "explanation": "Električna snaga je proizvod napona i struje: P = U · I."
+  },
+  {
+    "id": "A008",
+    "section": "A",
+    "topic": "Električna snaga",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: električna snaga",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Ako je napon 12 V, a struja 2 A, snaga iznosi:",
+    "options": [
+      "24 W",
+      "6 W",
+      "10 W",
+      "14 W"
+    ],
+    "correct": 0,
+    "explanation": "P = U · I = 12 V · 2 A = 24 W."
+  },
+  {
+    "id": "A009",
+    "section": "A",
+    "topic": "Otpornici",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: otpornici i veze otpornika",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kod redne veze otpornika ukupan otpor je:",
+    "options": [
+      "zbir pojedinačnih otpora",
+      "manji od najmanjeg otpora",
+      "uvek jednak nuli",
+      "uvek jednak 50 Ω"
+    ],
+    "correct": 0,
+    "explanation": "Kod redne veze ukupni otpor jednak je zbiru pojedinačnih otpora."
+  },
+  {
+    "id": "A010",
+    "section": "A",
+    "topic": "Otpornici",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: otpornici i veze otpornika",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Dva otpornika od 10 Ω vezana redno imaju ukupan otpor:",
+    "options": [
+      "20 Ω",
+      "10 Ω",
+      "5 Ω",
+      "100 Ω"
+    ],
+    "correct": 0,
+    "explanation": "Kod redne veze: R = 10 Ω + 10 Ω = 20 Ω."
+  },
+  {
+    "id": "A011",
+    "section": "A",
+    "topic": "Otpornici",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: otpornici i veze otpornika",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Dva jednaka otpornika vezana paralelno imaju ukupan otpor:",
+    "options": [
+      "polovinu otpora jednog otpornika",
+      "zbir oba otpora",
+      "dvostruko veći otpor",
+      "beskonačan otpor"
+    ],
+    "correct": 0,
+    "explanation": "Za dva jednaka otpornika paralelno, ukupni otpor je R/2."
+  },
+  {
+    "id": "A012",
+    "section": "A",
+    "topic": "Kondenzatori",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: kondenzatori",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Osnovna jedinica kapacitivnosti je:",
+    "options": [
+      "farad",
+      "henri",
+      "om",
+      "tesla"
+    ],
+    "correct": 0,
+    "explanation": "Kapacitivnost kondenzatora meri se u faradima (F)."
+  },
+  {
+    "id": "A013",
+    "section": "A",
+    "topic": "Kondenzatori",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: kondenzatori",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kondenzator skladišti energiju u:",
+    "options": [
+      "električnom polju",
+      "magnetnom polju",
+      "hemijskoj reakciji",
+      "mehaničkoj opruzi"
+    ],
+    "correct": 0,
+    "explanation": "Energija kondenzatora skladišti se u električnom polju između elektroda."
+  },
+  {
+    "id": "A014",
+    "section": "A",
+    "topic": "Zavojnice",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: zavojnice",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Osnovna jedinica induktivnosti je:",
+    "options": [
+      "henri",
+      "farad",
+      "om",
+      "volt"
+    ],
+    "correct": 0,
+    "explanation": "Induktivnost se meri u henrijima (H)."
+  },
+  {
+    "id": "A015",
+    "section": "A",
+    "topic": "Zavojnice",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: zavojnice",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Zavojnica skladišti energiju u:",
+    "options": [
+      "magnetnom polju",
+      "električnom polju",
+      "hemijskoj reakciji",
+      "svetlosnom zračenju"
+    ],
+    "correct": 0,
+    "explanation": "Zavojnica skladišti energiju u magnetnom polju."
+  },
+  {
+    "id": "A016",
+    "section": "A",
+    "topic": "Poluprovodnici",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: poluprovodničke komponente",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Osnovno svojstvo diode je da:",
+    "options": [
+      "propušta struju pretežno u jednom smeru",
+      "propušta struju jednako u oba smera",
+      "uvek prekida svako kolo",
+      "meri frekvenciju"
+    ],
+    "correct": 0,
+    "explanation": "Dioda je poluprovodnička komponenta koja provodi uglavnom u jednom smeru."
+  },
+  {
+    "id": "A017",
+    "section": "A",
+    "topic": "Poluprovodnici",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: poluprovodničke komponente",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Zener dioda se najčešće koristi za:",
+    "options": [
+      "stabilizaciju napona",
+      "merenje talasne dužine",
+      "pojačanje zvuka",
+      "izradu antene"
+    ],
+    "correct": 0,
+    "explanation": "Zener dioda se koristi kao stabilizacioni ili referentni element napona."
+  },
+  {
+    "id": "A018",
+    "section": "A",
+    "topic": "Poluprovodnici",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: poluprovodničke komponente",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Tranzistor se najčešće koristi kao:",
+    "options": [
+      "pojačavač ili elektronski prekidač",
+      "samo osigurač",
+      "samo mehanički prekidač",
+      "antenski stub"
+    ],
+    "correct": 0,
+    "explanation": "Tranzistor se koristi za pojačanje signala i kao elektronski prekidač."
+  },
+  {
+    "id": "A019",
+    "section": "A",
+    "topic": "Frekvencija i talasna dužina",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: frekvencija i talasna dužina",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Osnovna jedinica frekvencije je:",
+    "options": [
+      "herc",
+      "volt",
+      "amper",
+      "džul"
+    ],
+    "correct": 0,
+    "explanation": "Frekvencija se meri u hercima (Hz)."
+  },
+  {
+    "id": "A020",
+    "section": "A",
+    "topic": "Frekvencija i talasna dužina",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: frekvencija i talasna dužina",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Talasna dužina i frekvencija su:",
+    "options": [
+      "obrnuto proporcionalne",
+      "direktno proporcionalne",
+      "uvek iste vrednosti",
+      "nepovezane veličine"
+    ],
+    "correct": 0,
+    "explanation": "Što je frekvencija veća, talasna dužina je manja."
+  },
+  {
+    "id": "A021",
+    "section": "A",
+    "topic": "Frekvencija i talasna dužina",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: frekvencija i talasna dužina",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Približna talasna dužina za frekvenciju 150 MHz je:",
+    "options": [
+      "2 m",
+      "20 m",
+      "0,2 m",
+      "200 m"
+    ],
+    "correct": 0,
+    "explanation": "λ ≈ 300 / f(MHz), pa je 300 / 150 = 2 m."
+  },
+  {
+    "id": "A022",
+    "section": "A",
+    "topic": "Modulacije i emisije",
+    "sourceType": "TEST",
+    "sourceRef": "Probni test / priručnik, oblast A: vrste rada i oznake emisija",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Oznaka A1A najčešće se odnosi na:",
+    "options": [
+      "telegrafiju (CW)",
+      "FM telefoniju",
+      "SSB telefoniju",
+      "televizijsku sliku"
+    ],
+    "correct": 0,
+    "explanation": "A1A je tipična oznaka za telegrafiju, odnosno CW."
+  },
+  {
+    "id": "A023",
+    "section": "A",
+    "topic": "Modulacije i emisije",
+    "sourceType": "TEST",
+    "sourceRef": "Probni test / priručnik, oblast A: vrste rada i oznake emisija",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Oznaka J3E označava:",
+    "options": [
+      "SSB telefoniju sa potisnutim nosiocem",
+      "FM telefoniju",
+      "AM telefoniju sa punim nosiocem",
+      "telegrafiju bez nosioca"
+    ],
+    "correct": 0,
+    "explanation": "J3E je oznaka za SSB telefoniju sa potisnutim nosiocem."
+  },
+  {
+    "id": "A024",
+    "section": "A",
+    "topic": "Modulacije i emisije",
+    "sourceType": "TEST",
+    "sourceRef": "Probni test / priručnik, oblast A: vrste rada i oznake emisija",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Oznaka F3E označava:",
+    "options": [
+      "FM telefoniju",
+      "CW telegrafiju",
+      "AM telefoniju",
+      "digitalni tekst bez modulacije"
+    ],
+    "correct": 0,
+    "explanation": "F3E je oznaka za frekvencijski modulisanu telefoniju."
+  },
+  {
+    "id": "A025",
+    "section": "A",
+    "topic": "Antene",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: antene",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Osnovna uloga antene je:",
+    "options": [
+      "pretvaranje električnog signala u elektromagnetni talas i obrnuto",
+      "stabilizacija mrežnog napona",
+      "smanjenje kapaciteta baterije",
+      "merenje temperature uređaja"
+    ],
+    "correct": 0,
+    "explanation": "Antena služi za zračenje i prijem elektromagnetnih talasa."
+  },
+  {
+    "id": "A026",
+    "section": "A",
+    "topic": "Antene",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: antene",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Polutalasni dipol ima ukupnu dužinu približno:",
+    "options": [
+      "polovinu talasne dužine",
+      "jednu talasnu dužinu",
+      "dve talasne dužine",
+      "jednu desetinu talasne dužine"
+    ],
+    "correct": 0,
+    "explanation": "Ukupna dužina polutalasnog dipola približno je λ/2."
+  },
+  {
+    "id": "A027",
+    "section": "A",
+    "topic": "Antene",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: antene",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Yagi antena se sastoji od:",
+    "options": [
+      "zračećeg elementa, reflektora i direktora",
+      "samo kondenzatora i otpornika",
+      "samo jednog koaksijalnog konektora",
+      "baterije i osigurača"
+    ],
+    "correct": 0,
+    "explanation": "Yagi antena ima aktivni element, reflektor i jedan ili više direktora."
+  },
+  {
+    "id": "A028",
+    "section": "A",
+    "topic": "Vodovi i prilagođenje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: vodovi, SWR i prilagođenje",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Karakteristična impedansa mnogih radioamaterskih koaksijalnih kablova je:",
+    "options": [
+      "50 Ω",
+      "5 Ω",
+      "500 Ω",
+      "1 Ω"
+    ],
+    "correct": 0,
+    "explanation": "U radioamaterskoj opremi najčešće se koristi koaksijalni sistem impedanse 50 Ω."
+  },
+  {
+    "id": "A029",
+    "section": "A",
+    "topic": "Vodovi i prilagođenje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: vodovi, SWR i prilagođenje",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Idealan SWR u antenskom sistemu je:",
+    "options": [
+      "1:1",
+      "1:10",
+      "10:1",
+      "0:1"
+    ],
+    "correct": 0,
+    "explanation": "SWR 1:1 označava idealno prilagođenje bez reflektovane snage."
+  },
+  {
+    "id": "A030",
+    "section": "A",
+    "topic": "Vodovi i prilagođenje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik, oblast A: vodovi, SWR i prilagođenje",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Balun služi za:",
+    "options": [
+      "spajanje simetričnog i nesimetričnog sistema",
+      "merenje vremena veze",
+      "pretvaranje FM u AM bez sklopa",
+      "čuvanje QSL karata"
+    ],
+    "correct": 0,
+    "explanation": "Balun se koristi za prelaz između balansiranog i nebalansiranog sistema i, po potrebi, transformaciju impedanse."
+  }
+]

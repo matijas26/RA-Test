@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="sr-Latn">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>RA-Test</title>
+    <meta name="description" content="Interaktivni test za vežbanje ispita za radio-amatersku licencu u Srbiji.">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Radio-amaterski ispit</p>
+          <h1>RA-Test</h1>
+        </div>
+        <div class="topbar-actions">
+          <button class="ghost" id="homeBtn" type="button">Početna</button>
+          <button class="primary" id="newExamBtn" type="button">Novi test</button>
+        </div>
+      </header>
+
+      <main id="app" aria-live="polite"></main>
+    </div>
+
+    <script src="questions.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

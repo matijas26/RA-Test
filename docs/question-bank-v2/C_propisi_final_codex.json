@@ -1,0 +1,2396 @@
+[
+  {
+    "id": "C001",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Prema ITU Radio propisima, radio-stanica je:",
+    "options": [
+      "uređaj namenjen samo za FM radio-difuziju",
+      "jedan ili više predajnika ili prijemnika, uključujući dodatne uređaje, potrebne za radio-komunikacijsku službu",
+      "samo predajnik bez prijemnika",
+      "antena sa pripadajućim kablom"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C002",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Amaterska radio-komunikacijska služba namenjena je prvenstveno za:",
+    "options": [
+      "službene veze državnih organa",
+      "radio-difuziju javnog programa",
+      "obuku, međusobne komunikacije i tehnička istraživanja radio-amatera",
+      "komercijalni prenos podataka"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C003",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Da li je radio-amaterima u Srbiji dozvoljeno da upotrebljavaju bilo koji jezik koji sagovornici razumeju?",
+    "options": [
+      "Da, ali samo u telegrafiji",
+      "Ne, dozvoljen je samo srpski jezik",
+      "Da",
+      "Ne, dozvoljen je samo engleski jezik"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C004",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Svaka radio-amaterska stanica je dužna da se identifikuje:",
+    "options": [
+      "serijskim brojem uređaja",
+      "svojim pozivnim znakom",
+      "samo ako je veza međunarodna",
+      "samo na kraju veze"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C005",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta omogućava preporuka CEPT T/R 61-01?",
+    "options": [
+      "Rad radio-amatera bez licence",
+      "Trajno izdavanje pozivnog znaka bez ispita",
+      "Korišćenje svih frekvencijskih opsega bez ograničenja",
+      "Privremeni rad radio-amatera u drugim CEPT državama bez pribavljanja pojedinačne dozvole"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C006",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "HAREC dokument je dokaz o:",
+    "options": [
+      "članstvu u radio-klubu",
+      "vlasništvu nad radio-stanicom",
+      "položenom ispitu za radio-amatera usklađenom sa CEPT preporukom",
+      "kupljenoj radio-stanici"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C007",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Amaterska radio-stanica je radio-stanica koja se koristi u okviru:",
+    "options": [
+      "amaterske, odnosno amaterske satelitske službe",
+      "pomorske službe",
+      "vazduhoplovne službe",
+      "radio-difuzne službe"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C008",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Prijemna amaterska radio-stanica sastoji se od:",
+    "options": [
+      "prijemnika i pripadajuće opreme",
+      "samo izvora napajanja",
+      "samo antene",
+      "predajnika i antene"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C009",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Predajna amaterska radio-stanica sastoji se od:",
+    "options": [
+      "predajnika i pripadajuće opreme",
+      "samo prijemnika",
+      "samo mernog instrumenta",
+      "antene bez predajnika"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C010",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Radio-amater je:",
+    "options": [
+      "lice koje sluša radio-difuzni program",
+      "lice ovlašćeno za korišćenje amaterskih radio-stanica",
+      "svako lice koje poseduje radio-prijemnik",
+      "lice koje koristi mobilni telefon"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C011",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Repetitorska amaterska radio-stanica je namenjena za:",
+    "options": [
+      "primarno i lokalno pokrivanje automatskim prijemom i predajom signala drugih amaterskih stanica",
+      "merenje električnog otpora",
+      "punjenje akumulatora",
+      "emitovanje muzičkog programa"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C012",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Vršna snaga obvojnice predajnika označava se skraćenicom:",
+    "options": [
+      "SWR",
+      "ERP",
+      "PEP",
+      "EIRP"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C013",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Efektivna izračena snaga u odnosu na izotropni izvor označava se skraćenicom:",
+    "options": [
+      "QTH",
+      "RST",
+      "PEP",
+      "EIRP"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C014",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Pozivni znak radio-stanice mora biti:",
+    "options": [
+      "proizvoljan i promenljiv za svaku vezu",
+      "sastavljen samo od brojeva",
+      "jedinstvena oznaka radio-stanice",
+      "isti za sve stanice u jednoj državi"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C015",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ko u Srbiji dodeljuje pozivne znake radio-amaterima?",
+    "options": [
+      "Radio-klub",
+      "Regulatorna agencija za elektronske komunikacije i poštanske usluge",
+      "Operator mobilne telefonije",
+      "Ministarstvo unutrašnjih poslova"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C016",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 32",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kada se pozivni znak koji je bio dodeljen radio-amateru može dodeliti drugom radio-amateru ako licenca nije produžena?",
+    "options": [
+      "Nakon najmanje godinu dana od dana isteka licence",
+      "Nikada se ne može dodeliti drugom radio-amateru",
+      "Tek nakon 10 godina od isteka licence",
+      "Odmah po isteku licence"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 32. Zamenjeno pitanje o roku važenja pozivnog znaka pravilom o ponovnoj dodeli znaka."
+  },
+  {
+    "id": "C017",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta čini prefiks pozivnog znaka?",
+    "options": [
+      "Samo oznaka vrste emisije",
+      "Deo pozivnog znaka pre sufiksa, uključujući DXCC oznaku i broj",
+      "Samo poslednje slovo pozivnog znaka",
+      "Samo sufiks bez broja"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C018",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta je sufiks pozivnog znaka?",
+    "options": [
+      "Oznaka kontinenta",
+      "Oznaka klase licence",
+      "Prvi broj u pozivnom znaku",
+      "Deo pozivnog znaka koji se nalazi posle poslednjeg broja"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C019",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji od sledećih prefiksa pripada Srbiji?",
+    "options": [
+      "DL",
+      "S5",
+      "OE",
+      "YU"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C020",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji od sledećih prefiksa pripada Bosni i Hercegovini?",
+    "options": [
+      "OM",
+      "E7",
+      "9A",
+      "Z3"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C021",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji od sledećih prefiksa pripada Hrvatskoj?",
+    "options": [
+      "YO",
+      "CT",
+      "9A",
+      "ZA"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C022",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji od sledećih prefiksa pripada Crnoj Gori?",
+    "options": [
+      "S5",
+      "4O",
+      "LZ",
+      "HB"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C023",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji od sledećih prefiksa pripada Nemačkoj?",
+    "options": [
+      "CT",
+      "DL",
+      "YU",
+      "9H"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C024",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji od sledećih prefiksa pripada Austriji?",
+    "options": [
+      "OM",
+      "Z3",
+      "E7",
+      "OE"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C025",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji od sledećih prefiksa pripada Sloveniji?",
+    "options": [
+      "S5",
+      "4O",
+      "YT",
+      "LZ"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C026",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači dodatak /P iza pozivnog znaka?",
+    "options": [
+      "Rad iz pokreta",
+      "Rad sa lokacije koja nije prijavljena kao stalna lokacija stanice",
+      "Rad sa plovila",
+      "Rad u vazduhoplovu"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C027",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači dodatak /M iza pozivnog znaka?",
+    "options": [
+      "Rad preko repetitora",
+      "Rad iz pokreta, vozila u pokretu",
+      "Rad preko Meseca",
+      "Rad sa malom snagom"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C028",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači dodatak /AM iza pozivnog znaka?",
+    "options": [
+      "Rad preko satelita",
+      "Rad iz vazduhoplova",
+      "Amplitudska modulacija",
+      "Automatski repetitor"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C029",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta često označava sufiks QRP?",
+    "options": [
+      "Rad velikom snagom",
+      "Rad malom snagom",
+      "Rad u takmičenju",
+      "Rad preko radio-fara"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C030",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji deo opsega 144 MHz je namenjen isključivo za CW rad?",
+    "options": [
+      "144.035-144.150 MHz",
+      "144.800-144.995 MHz",
+      "145.600-145.800 MHz",
+      "144.150-144.400 MHz"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C031",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji deo opsega 432 MHz je namenjen isključivo za CW rad?",
+    "options": [
+      "432.000-432.100 MHz",
+      "435.000-438.000 MHz",
+      "434.600-434.985 MHz",
+      "433.000-433.600 MHz"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C032",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji deo 10-metarskog opsega je namenjen isključivo za CW rad?",
+    "options": [
+      "29.300-29.550 MHz",
+      "28.000-28.050 MHz",
+      "28.225-29.700 MHz",
+      "27.000-27.900 MHz"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C033",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji opseg je u tabeli naveden kao satelitski deo 10 m opsega?",
+    "options": [
+      "29.300-29.550 MHz",
+      "144.035-144.150 MHz",
+      "50.000-50.100 MHz",
+      "28.000-28.050 MHz"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C034",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji opseg je u tabeli naveden kao satelitski deo 70 cm opsega?",
+    "options": [
+      "435.000-438.000 MHz",
+      "434.600-434.985 MHz",
+      "433.000-433.600 MHz",
+      "432.000-432.100 MHz"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 39-45."
+  },
+  {
+    "id": "C035",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 7, napomena",
+    "sourcePage": 39,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Maksimalna snaga predajnika prema važećoj napomeni pravilnika odnosi se na:",
+    "options": [
+      "ERP snagu",
+      "snagu zvučnika",
+      "EIRP snagu",
+      "PEP snagu"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 7, napomena. Usaglašeno sa važećom napomenom: maksimalna snaga se odnosi na EIRP."
+  },
+  {
+    "id": "C036",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Od koliko znakova se sastoji oznaka tipa emitovanog signala prikazana u priručniku?",
+    "options": [
+      "jednog znaka",
+      "dva znaka",
+      "tri znaka",
+      "pet znakova"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C037",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Prvi znak u oznaci emisije označava:",
+    "options": [
+      "opseg rada",
+      "snagu predajnika",
+      "vrstu modulacije",
+      "pozivni znak"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C038",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Drugi znak u oznaci emisije označava:",
+    "options": [
+      "prirodu signala",
+      "državu stanice",
+      "polarizaciju antene",
+      "broj antena"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C039",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Treći znak u oznaci emisije označava:",
+    "options": [
+      "SWR",
+      "širinu opsega",
+      "vrstu informacije koja se prenosi",
+      "visinu antene"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C040",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koje slovo označava frekventnu modulaciju u oznaci emisije?",
+    "options": [
+      "G",
+      "A",
+      "J",
+      "F"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C041",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koje slovo označava faznu modulaciju u oznaci emisije?",
+    "options": [
+      "N",
+      "G",
+      "H",
+      "F"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C042",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koje slovo označava nemodulisani nosilac?",
+    "options": [
+      "J",
+      "N",
+      "R",
+      "A"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C043",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji broj označava jedan kanal sa analognom informacijom?",
+    "options": [
+      "1",
+      "3",
+      "9",
+      "0"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C044",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji broj označava jedan kanal sa digitalnom informacijom bez pomoćnog nosioca?",
+    "options": [
+      "8",
+      "1",
+      "7",
+      "2"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C045",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koje slovo označava telefoniju kao vrstu informacije?",
+    "options": [
+      "A",
+      "E",
+      "B",
+      "C"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C046",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koje slovo označava telegrafiju za prijem od strane operatora?",
+    "options": [
+      "B",
+      "A",
+      "F",
+      "D"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C047",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koja oznaka emisije odgovara CW vrsti rada prema tabeli?",
+    "options": [
+      "J3E",
+      "A3E",
+      "F3E",
+      "A1A"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C048",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koja oznaka emisije odgovara AM govoru prema tabeli?",
+    "options": [
+      "J3E",
+      "A3E",
+      "A1A",
+      "FXE"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C049",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koja oznaka emisije odgovara SSB govoru prema tabeli?",
+    "options": [
+      "F3E",
+      "A3E",
+      "F1B",
+      "J3E"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C050",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koja oznaka emisije odgovara FM govoru prema tabeli?",
+    "options": [
+      "J3E",
+      "J2B",
+      "A1A",
+      "F3E"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C051",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koja oznaka emisije odgovara RTTY vrsti rada prema tabeli?",
+    "options": [
+      "F3E",
+      "FXE",
+      "F1B",
+      "A3E"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C052",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Rad na jednoj frekvenciji, gde se predaja i prijem smenjuju, naziva se:",
+    "options": [
+      "satelitski rad",
+      "simpleks",
+      "dupleks",
+      "full-dupleks"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C053",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Rad pri kome se istovremeno koriste dve frekvencije za predaju i prijem naziva se:",
+    "options": [
+      "CW",
+      "simpleks",
+      "prijemni rad",
+      "dupleks"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C054",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Semi-dupleksni kanali u radio-amaterizmu najčešće su namenjeni za:",
+    "options": [
+      "merenje SWR-a",
+      "rad radio-farova",
+      "rad preko repetitora",
+      "isključivo telegrafiju"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C055",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kod simpleksnog rada na UKT opsezima dozvoljeno je koristiti:",
+    "options": [
+      "samo frekvencije radio-farova",
+      "samo satelitske frekvencije",
+      "samo tačno definisane kanale",
+      "bilo koju frekvenciju bez plana"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C056",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Korak između susednih kanala na 144 MHz i 432 MHz u Srbiji iznosi:",
+    "options": [
+      "100 kHz",
+      "12,5 kHz",
+      "25 kHz",
+      "5 kHz"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C057",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Korak između susednih kanala na opsegu 1,2 GHz iznosi:",
+    "options": [
+      "12,5 kHz",
+      "600 kHz",
+      "25 kHz",
+      "1600 kHz"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C058",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Pomak za repetitorske kanale na 144 MHz iznosi:",
+    "options": [
+      "-1600 kHz",
+      "-600 kHz",
+      "+12,5 kHz",
+      "-6000 kHz"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C059",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Pomak za repetitorske kanale na 432 MHz iznosi:",
+    "options": [
+      "-1600 kHz",
+      "-600 kHz",
+      "+25 kHz",
+      "-6000 kHz"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C060",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Pomak za repetitorske kanale na 1,2 GHz iznosi:",
+    "options": [
+      "-600 kHz",
+      "-6000 kHz",
+      "-1600 kHz",
+      "-12,5 kHz"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C061",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koji ton se koristi za aktiviranje repetitora prema priručniku?",
+    "options": [
+      "67 Hz PL ton",
+      "1600 Hz pomak",
+      "88,5 Hz CTCSS ton",
+      "1750 Hz burst-ton"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C062",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "PL ton je isto što i:",
+    "options": [
+      "audio snaga",
+      "CW ton",
+      "oznaka opsega",
+      "CTCSS ton"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C063",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Prema priručniku, najveći broj repetitora u Republici Srbiji koristi PL ton od:",
+    "options": [
+      "1750 Hz",
+      "88,5 Hz",
+      "67 Hz",
+      "123 Hz"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C064",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Radio-amaterima je strogo zabranjeno emitovanje na:",
+    "options": [
+      "izlaznoj frekvenciji repetitora",
+      "CW delu opsega",
+      "ulaznoj frekvenciji repetitora",
+      "simpleksnom kanalu"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C065",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Maksimalna efektivna izračena snaga amaterske repetitorske stanice za primarno pokrivanje iznosi:",
+    "options": [
+      "1 W",
+      "15 W",
+      "50 W",
+      "10 W"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C066",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Maksimalna efektivna izračena snaga amaterske repetitorske stanice za lokalno pokrivanje iznosi:",
+    "options": [
+      "50 W",
+      "5 W",
+      "15 W",
+      "1 W"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C067",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koja je izlazna frekvencija repetitora R1 / RV50?",
+    "options": [
+      "145,0250 MHz",
+      "145,6500 MHz",
+      "145,6250 MHz",
+      "145,6000 MHz"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C068",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koja je ulazna frekvencija repetitora R1 / RV50?",
+    "options": [
+      "145,6500 MHz",
+      "145,6000 MHz",
+      "145,0250 MHz",
+      "145,6250 MHz"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C069",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koja je izlazna frekvencija repetitora R4 / RV56?",
+    "options": [
+      "145,7250 MHz",
+      "145,1000 MHz",
+      "145,7000 MHz",
+      "145,6000 MHz"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C070",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koja je frekvencija simpleksnog kanala V40?",
+    "options": [
+      "145,5875 MHz",
+      "145,5000 MHz",
+      "145,5500 MHz",
+      "145,4000 MHz"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C071",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koja je frekvencija simpleksnog kanala V47?",
+    "options": [
+      "145,5000 MHz",
+      "145,5750 MHz",
+      "145,5500 MHz",
+      "145,5875 MHz"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C072",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koja je frekvencija simpleksnog kanala U280?",
+    "options": [
+      "433,4750 MHz",
+      "433,5250 MHz",
+      "433,5875 MHz",
+      "433,5000 MHz"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C073",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koja je frekvencija simpleksnog kanala U287?",
+    "options": [
+      "433,5875 MHz",
+      "433,5000 MHz",
+      "433,5250 MHz",
+      "433,5500 MHz"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C074",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Amaterski radio-farovi su:",
+    "options": [
+      "automatizovane radio-stanice koje periodično ili konstantno emituju svoj pozivni znak",
+      "antene za prijem satelita",
+      "ručne radio-stanice za simpleksni rad",
+      "instrumenti za merenje SWR-a"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C075",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Maksimalna snaga za radio-farove svetskog karaktera prema priručniku iznosi:",
+    "options": [
+      "150 W",
+      "1 W",
+      "50 W",
+      "10 W"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C076",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Maksimalna snaga za radio-farove lokalnog karaktera prema priručniku iznosi:",
+    "options": [
+      "10 W",
+      "1 W",
+      "100 W",
+      "50 W"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C077",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Na kom delu opsega 144 MHz su predviđeni radio-farovi prema tabeli?",
+    "options": [
+      "144,035-144,150 MHz",
+      "144,400-144,500 MHz",
+      "144,995-145,200 MHz",
+      "145,600-145,800 MHz"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C078",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Na kom delu opsega 432 MHz su predviđeni radio-farovi prema tabeli?",
+    "options": [
+      "435,000-438,000 MHz",
+      "433,000-433,600 MHz",
+      "432,400-432,500 MHz",
+      "434,600-434,985 MHz"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C079",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Na kom delu opsega 50 MHz su predviđeni radio-farovi prema tabeli?",
+    "options": [
+      "50,000-50,100 MHz",
+      "50,020-50,080 MHz",
+      "51,000-52,000 MHz",
+      "50,100-51,900 MHz"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C080",
+    "section": "C",
+    "topic": "Emisije, kanali, repetitori i radio-farovi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50",
+    "sourcePage": 46,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Radio-amateri nisu isključivi korisnici frekvencija koje su im dodeljene band-planom. To znači da:",
+    "options": [
+      "na svim opsezima imaju apsolutni prioritet",
+      "druge službe mogu imati pravo korišćenja nekih radio-amaterskih frekvencija",
+      "repetitori nemaju pravo rada",
+      "ne smeju koristiti nijedan opseg"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 46-50."
+  },
+  {
+    "id": "C081",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta označava skraćenica ITU?",
+    "options": [
+      "International Telecommunication Union",
+      "International Transmitter Unit",
+      "Integrated Telegraphic Utility",
+      "Internal Technical Union"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C082",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "ITU je agencija pod okriljem:",
+    "options": [
+      "Ujedinjenih nacija",
+      "ARRL-a",
+      "Evropske unije",
+      "SRS-a"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C083",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Sedište ITU nalazi se u:",
+    "options": [
+      "Njujorku",
+      "Beogradu",
+      "Parizu",
+      "Ženevi"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C084",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "ITU se, između ostalog, bavi:",
+    "options": [
+      "izradom antenskih kablova",
+      "organizovanjem samo lokalnih takmičenja",
+      "izdavanjem QSL karata svakom operatoru",
+      "podelom radio-spektra"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C085",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Prema priručniku, Srbija se nalazi u ITU zoni:",
+    "options": [
+      "15",
+      "90",
+      "28",
+      "40"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C086",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta označava skraćenica IARU?",
+    "options": [
+      "Internal Amateur Repeater Union",
+      "International Antenna Relay Unit",
+      "International Amateur Radio Union",
+      "Internet Amateur Radio Utility"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C087",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "IARU je savez:",
+    "options": [
+      "samo repetitorskih stanica",
+      "proizvođača radio-stanica",
+      "samo američkih radio-klubova",
+      "nacionalnih radio-amaterskih saveza"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C088",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Srbija pripada IARU regionu:",
+    "options": [
+      "Region 4",
+      "Region 1",
+      "Region 2",
+      "Region 3"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C089",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Region 1 IARU obuhvata:",
+    "options": [
+      "samo Australiju",
+      "samo Severnu Ameriku",
+      "samo Južnu Ameriku",
+      "Evropu, Afriku i severnu Aziju"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C090",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Region 2 IARU obuhvata:",
+    "options": [
+      "Evropu i Afriku",
+      "samo Evropu",
+      "južnu Aziju i Okeaniju",
+      "Severnu i Južnu Ameriku"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C091",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Region 3 IARU obuhvata:",
+    "options": [
+      "severnu Aziju i Evropu",
+      "južnu Aziju i Australiju sa Okeanijom",
+      "samo Balkan",
+      "Afriku i Evropu"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C092",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta označava ARRL?",
+    "options": [
+      "Amateur Radio Repeater List",
+      "American Radio Relay League",
+      "Automatic Radio Relay Link",
+      "Antenna Radio Research League"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C093",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "ARRL održava servis za potvrdu veza koji se naziva:",
+    "options": [
+      "RST",
+      "LoTW",
+      "QTH",
+      "SWR"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C094",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Prema priručniku, Srbija je smeštena u CQ zonu:",
+    "options": [
+      "40",
+      "28",
+      "20",
+      "15"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C095",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta označava SRS?",
+    "options": [
+      "Služba radio-saobraćaja",
+      "Savez repetitorskih stanica",
+      "Savez radio-amatera Srbije",
+      "Sistem radio-satelita"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C096",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Sedište SRS nalazi se u:",
+    "options": [
+      "Nišu",
+      "Novom Sadu",
+      "Ženevi",
+      "Beogradu"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C097",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "SRS je član:",
+    "options": [
+      "CEPT kao regulator",
+      "ARRL kao američka liga",
+      "ITU kao država",
+      "IARU"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C098",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta je RATEL?",
+    "options": [
+      "Registar antena i talasnih elemenata",
+      "Radio-amaterski tehnički elektronski laboratorij",
+      "Republička agencija za elektronske komunikacije i poštanske usluge",
+      "Repetitorska amaterska telekomunikaciona liga"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C099",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "RATEL, prema tekstu, definiše:",
+    "options": [
+      "obavezne modele radio-stanica",
+      "nazive radio-klubova",
+      "QSL dizajn svakog operatora",
+      "plan namene frekventnih opsega i izdaje licence i dozvole"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C100",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Radio-klubovi su udruženja građana koja okupljaju:",
+    "options": [
+      "samo profesionalne emitere",
+      "samo takmičarske sudije",
+      "radio-amatere",
+      "samo proizvođače antena"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C101",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "U radio-klubovima se može dobiti pomoć u vezi sa:",
+    "options": [
+      "otvaranjem radio-difuzne stanice",
+      "registracijom automobila",
+      "izgradnjom opreme, učenjem i korišćenjem klupske stanice",
+      "izdavanjem pasoša"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C102",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta su prijemno-predajne sekcije?",
+    "options": [
+      "vrste QSL karata",
+      "tipovi frekvencmetara",
+      "vrste antena",
+      "delovi radio-klubova, odnosno sekcije"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C103",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "QRZ.com je:",
+    "options": [
+      "vrsta repetitora",
+      "program za merenje SWR-a",
+      "službeni registar ličnih dokumenata",
+      "baza podataka o radio-amaterima širom sveta"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C104",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "LoTW je servis koji održava:",
+    "options": [
+      "samo SRS",
+      "RATEL",
+      "ARRL",
+      "CEPT"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C105",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "eQSL je servis za:",
+    "options": [
+      "merenje snage",
+      "online razmenu elektronskih QSL karata",
+      "podešavanje antene",
+      "izdavanje dozvola"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C106",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "ClubLog je web servis koji se često koristi za:",
+    "options": [
+      "merenje impedanse",
+      "promenu pozivnog znaka",
+      "izradu koaksijalnih kablova",
+      "vođenje i proveru logova i OQRS zahteve"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C107",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Klasteri služe za:",
+    "options": [
+      "napajanje radio-stanice",
+      "zamenu antene",
+      "izdavanje licence",
+      "razmenu informacija o stanicama koje su prisutne na bandovima"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C108",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Web SDR omogućava:",
+    "options": [
+      "automatsko izdavanje QSL karata",
+      "rad bez antene i bez prijemnika",
+      "merenje napona mreže",
+      "slušanje radio-opsega preko udaljenog SDR prijemnika putem interneta"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C109",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Prvi prenos poruka putem radio-talasa ostvaren je:",
+    "options": [
+      "1903. godine",
+      "1895. godine",
+      "1955. godine",
+      "1961. godine"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C110",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Prvi prenos poruka putem radio-talasa između Evrope i Severne Amerike ostvaren je:",
+    "options": [
+      "1903. godine",
+      "1960. godine",
+      "1895. godine",
+      "1955. godine"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C111",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Prva radio-amaterska veza refleksijom od meteorskih tragova ostvarena je:",
+    "options": [
+      "1903. godine",
+      "1960. godine",
+      "1955. godine",
+      "1961. godine"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C112",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Prva radio-amaterska veza refleksijom od Meseca ostvarena je:",
+    "options": [
+      "1955. godine",
+      "1960. godine",
+      "1961. godine",
+      "1979. godine"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C113",
+    "section": "C",
+    "topic": "Radio-amaterske organizacije i servisi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69",
+    "sourcePage": 67,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Prvi radio-amaterski satelit OSCAR počeo je sa radom:",
+    "options": [
+      "1961. godine",
+      "1980. godine",
+      "1955. godine",
+      "1960. godine"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 67-69."
+  },
+  {
+    "id": "C114",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 2, tačka 15",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Šta je ERP prema važećem pravilniku?",
+    "options": [
+      "Ekvivalentna izotropna izračena snaga u odnosu na izotropnu antenu",
+      "Efektivna izračena snaga u posmatranom smeru u odnosu na polutalasni dipol",
+      "Srednja snaga zvučnika",
+      "Vršna snaga obvojnice predajnika"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 2, tačka 15. Dodato iz važećih ispravki/pravilnika."
+  },
+  {
+    "id": "C115",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 2, tačka 16",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Šta je EIRP prema važećem pravilniku?",
+    "options": [
+      "Vršna snaga obvojnice predajnika",
+      "Ekvivalentna izotropna izračena snaga u posmatranom smeru u odnosu na izotropnu antenu",
+      "Efektivna izračena snaga u odnosu na polutalasni dipol",
+      "Snaga kojom se napaja zvučnik"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 2, tačka 16. Dodato iz važećih ispravki/pravilnika."
+  },
+  {
+    "id": "C116",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 2, tačka 30",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta je srednja snaga P prema važećem pravilniku?",
+    "options": [
+      "Snaga zvučnika tokom jedne sekunde",
+      "Snaga kojom predajnik u normalnom radu napaja antenski vod tokom dovoljno dugog vremenskog intervala",
+      "Snaga gubitka u koaksijalnom kablu",
+      "Snaga koja se meri samo pri prijemu"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 2, tačka 30. Dodato iz važećih ispravki/pravilnika."
+  },
+  {
+    "id": "C117",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 2, tačka 31",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Šta je tehničko ispitivanje prema važećem pravilniku?",
+    "options": [
+      "Izdavanje QSL karata",
+      "Takmičenje u brzoj telegrafiji",
+      "Korišćenje amaterske radio-stanice za istraživanje refleksije, prostiranja talasa u neregularnim uslovima i posebnih tehnika prenosa",
+      "Provera ličnih podataka operatora"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 2, tačka 31. Dodato iz važećih ispravki/pravilnika."
+  },
+  {
+    "id": "C118",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 2, tačka 34",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači HAREC prema važećem pravilniku?",
+    "options": [
+      "Sertifikat o usaglašenom ispitu za radio-amatere po CEPT preporuci T/R 61-02",
+      "Dozvola za lokalni repetitor",
+      "Vrsta digitalne emisije",
+      "Registar QSL karata"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 2, tačka 34. Dodato iz važećih ispravki/pravilnika."
+  },
+  {
+    "id": "C119",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 2, tačka 32",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači CEPT prema važećem pravilniku?",
+    "options": [
+      "Certifikat za elektronske prijemnike i predajnike",
+      "Komitet za etiku radio-amatera",
+      "Centralni evropski predajnički test",
+      "Evropska konferencija poštanskih i telekomunikacionih administracija"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 2, tačka 32. Dodato iz važećih ispravki/pravilnika."
+  },
+  {
+    "id": "C120",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 2, tačka 33",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koja CEPT preporuka se odnosi na CEPT radioamatersku licencu A klase?",
+    "options": [
+      "RR 640",
+      "AX.25",
+      "T/R 61-01",
+      "T/R 61-02"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 2, tačka 33. Dodato iz važećih ispravki/pravilnika."
+  },
+  {
+    "id": "C121",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 2, tačka 18",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta je lokalno pokrivanje prema važećem pravilniku?",
+    "options": [
+      "Veza isključivo preko satelita",
+      "Rad na svim opsezima istovremeno",
+      "Međunarodna DX veza preko jonosfere",
+      "Radio-komunikacija u zoni gde je moguće održavanje repetitorskih veza na užem geografskom području poput opštinskih ili gradskih zona"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 2, tačka 18. Dodato iz važećih ispravki/pravilnika."
+  },
+  {
+    "id": "C122",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 2, tačka 25",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta je primarno pokrivanje prema važećem pravilniku?",
+    "options": [
+      "Veza samo na CW delu opsega",
+      "Veza isključivo u prostoriji radio-kluba",
+      "Rad bez upotrebe repetitora",
+      "Radio-komunikacija u zoni gde je moguće održavanje repetitorskih veza na širem geografskom području poput regiona ili magistralnih pravaca"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 2, tačka 25. Dodato iz važećih ispravki/pravilnika."
+  },
+  {
+    "id": "C123",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 2, tačka 21",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Pozivni znak je prema važećem pravilniku:",
+    "options": [
+      "šifra koja se ne sme izgovarati",
+      "samo sufiks radio-amatera",
+      "naziv korišćenog uređaja",
+      "jedinstvena kombinacija slova i brojeva kojom se identifikuje emisija stanice"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 2, tačka 21. Dodato iz važećih ispravki/pravilnika."
+  },
+  {
+    "id": "C124",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 2, tačka 28",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji organ izdaje radioamatersku licencu prema važećem pravilniku?",
+    "options": [
+      "Regulatorno telo za elektronske komunikacije i poštanske usluge",
+      "ITU direktno operatoru",
+      "Savez radio-amatera Srbije",
+      "Radio-klub operatora"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 2, tačka 28. Dodato iz važećih ispravki/pravilnika."
+  },
+  {
+    "id": "C125",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 43",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Radio-amater sa odgovarajućom CEPT licencom iz inostranstva može u Srbiji koristiti amatersku radio-stanicu:",
+    "options": [
+      "samo ako je član SRS",
+      "daljinski, pod nadzorom i odgovornošću vlasnika radio-stanice, ako se fizički ne nalazi u Srbiji",
+      "samo na CB opsegu",
+      "uvek bez ikakvog nadzora i dozvole"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 43. Dodato iz važećih ispravki/pravilnika."
+  },
+  {
+    "id": "C126",
+    "section": "C",
+    "topic": "Propisi, licence, pozivni znaci i band-plan",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeći pravilnik, član 32",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Radioamaterska licenca može se oduzeti ako se utvrdi da je imalac koristio amatersku radio-stanicu:",
+    "options": [
+      "za razmenu QSL karata",
+      "samo preko repetitora",
+      "samo na otvorenom prostoru",
+      "suprotno odredbama Zakona, Plana namene i pravilnika"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeći pravilnik, član 32. Dodato iz važećih ispravki/pravilnika."
+  }
+]

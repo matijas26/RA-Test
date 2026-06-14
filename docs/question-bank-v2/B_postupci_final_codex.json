@@ -1,0 +1,3536 @@
+[
+  {
+    "id": "B001",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Čime radio-amateri najčešće ocenjuju kvalitet održane veze?",
+    "options": [
+      "CEPT preporukom",
+      "UTC sistemom",
+      "DXCC listom",
+      "RST sistemom"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B002",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta označava prvo slovo R u RST raportu?",
+    "options": [
+      "Kvalitet tona",
+      "Razumljivost",
+      "Frekvenciju rada",
+      "Snagu signala"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B003",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta označava slovo S u RST raportu?",
+    "options": [
+      "Snagu signala",
+      "Stabilnost oscilatora",
+      "Širinu opsega",
+      "Smer antene"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B004",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta označava slovo T u RST raportu?",
+    "options": [
+      "Kvalitet tona",
+      "Tip emisije",
+      "Temperatura uređaja",
+      "Tačno vreme"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B005",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji je opseg ocena za razumljivost R?",
+    "options": [
+      "0 do 9",
+      "1 do 10",
+      "1 do 9",
+      "1 do 5"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B006",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji je opseg ocena za snagu signala S?",
+    "options": [
+      "0 do 10",
+      "1 do 9",
+      "1 do 5",
+      "0 do 5"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B007",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji je opseg ocena za kvalitet tona T?",
+    "options": [
+      "1 do 3",
+      "1 do 9",
+      "0 do 9",
+      "1 do 5"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B008",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači raport 59 u fonijskoj vezi?",
+    "options": [
+      "potpuna razumljivost i jak signal",
+      "samo potvrdu prijema",
+      "nerazumljiv signal i slab signal",
+      "dobra frekvencija i loš ton"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B009",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "U kojim vezama se obično ne daje ocena tona T?",
+    "options": [
+      "u CW vezama",
+      "u fonijskim vezama",
+      "u vezama sa digitalnom obradom",
+      "u telegrafskim vezama"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B010",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Kod veza preko repetitora, umesto RST skale koristi se:",
+    "options": [
+      "UTC skala",
+      "Q skala",
+      "DX skala",
+      "SWR skala"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B011",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Kod rada preko repetitora, ocena se daje za:",
+    "options": [
+      "kvalitet napajanja",
+      "signal repetitora",
+      "snagu antene",
+      "signal sopstvenog predajnika na anteni"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B012",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Šta znači Q1 u Q skali za repetitorske veze?",
+    "options": [
+      "Nerazumljiv signal",
+      "Rad bez smetnji",
+      "Potpuno razumljiv signal",
+      "Vrlo jak signal"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B013",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Šta znači Q5 u Q skali za repetitorske veze?",
+    "options": [
+      "Potpuno razumljiv signal",
+      "Bez antene",
+      "Slab signal",
+      "Nerazumljiv signal"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B014",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji podatak je obavezan u dnevniku radio-amatera?",
+    "options": [
+      "marka automobila",
+      "cena uređaja",
+      "redni broj veze",
+      "tip antene proizvođača"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B015",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "U kom vremenu se upisuje vreme veze u dnevnik?",
+    "options": [
+      "letnje vreme",
+      "vreme najbliže države",
+      "lokalno vreme",
+      "UTC"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B016",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "U kom formatu se upisuje vreme početka veze prema priručniku?",
+    "options": [
+      "HH:MM:SS",
+      "SSMM",
+      "DDMMGG",
+      "SSM"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B017",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "U kom formatu se upisuje datum veze prema priručniku?",
+    "options": [
+      "MMGGDD",
+      "DDMMGG",
+      "SSM",
+      "HHMM"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B018",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koliko najmanje treba čuvati dnevnik od poslednje upisane veze?",
+    "options": [
+      "6 meseci",
+      "2 godine",
+      "10 godina",
+      "1 godinu"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B019",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači UTC?",
+    "options": [
+      "Ultra Tone Control",
+      "Universal Time",
+      "Universal Tuning Channel",
+      "United Telegraph Code"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B020",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "U odnosu na naše lokalno vreme, UTC je zimi:",
+    "options": [
+      "isti",
+      "1 sat iza",
+      "2 sata iza",
+      "3 sata ispred"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B021",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "U odnosu na naše lokalno vreme, UTC je leti:",
+    "options": [
+      "2 sata iza",
+      "3 sata iza",
+      "isti",
+      "1 sat iza"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B022",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta je Q-kod?",
+    "options": [
+      "Oznaka vrste napajanja",
+      "Oznaka vrste antene",
+      "Oznaka klase licence",
+      "Lista troznakovnih skraćenica koje počinju slovom Q"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B023",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako se Q-kod završava znakom pitanja, on predstavlja:",
+    "options": [
+      "upitni oblik",
+      "pozivni znak",
+      "oznaku države",
+      "odgovor"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B024",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači QRG?",
+    "options": [
+      "Da li ste zauzeti?",
+      "Ko me je zvao?",
+      "Kakvo je vreme?",
+      "Koja je moja tačna frekvencija?"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B025",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači QRL?",
+    "options": [
+      "Moja lokacija je...",
+      "Potvrđujem prijem",
+      "Treba li da povećam snagu?",
+      "Da li ste zauzeti?"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B026",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači QRM?",
+    "options": [
+      "Završavam rad",
+      "Smetnje od drugih stanica",
+      "Tačno vreme",
+      "Smetnje od atmosferskih prilika"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B027",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači QRN?",
+    "options": [
+      "Povećajte snagu",
+      "Smetnje od atmosferskih prilika",
+      "Zovite me ponovo",
+      "Smetnje od drugih stanica"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B028",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači QRO?",
+    "options": [
+      "Povećajte snagu",
+      "Prestanite sa radom",
+      "Smanjite snagu",
+      "Moja lokacija je..."
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B029",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači QRP?",
+    "options": [
+      "Treba li da promenim frekvenciju?",
+      "Treba li da smanjim snagu?",
+      "Da li me ometaju druge stanice?",
+      "Ko me je zvao?"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B030",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači QRZ?",
+    "options": [
+      "Koja je vaša lokacija?",
+      "Ko me je zvao?",
+      "Koliko je tačno sati?",
+      "Da li je frekvencija zauzeta?"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B031",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači QSL?",
+    "options": [
+      "Koliko je tačno sati?",
+      "Da li ste zauzeti?",
+      "Potvrđujete li prijem?",
+      "Da li imate telegram za mene?"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B032",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači QSY?",
+    "options": [
+      "Povećajte snagu",
+      "Pređite na drugu frekvenciju",
+      "Prestanite sa radom",
+      "Potvrdite prijem"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B033",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači QTH?",
+    "options": [
+      "Kakva je čitljivost signala?",
+      "Da li ste spremni za prijem?",
+      "Ko me je zvao?",
+      "Koja je vaša lokacija?"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B034",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači QTR?",
+    "options": [
+      "Jačina signala",
+      "Tačna frekvencija",
+      "Tačno vreme",
+      "Pozivni znak"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B035",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači skraćenica 73?",
+    "options": [
+      "Mnogo uspeha",
+      "Poljupci",
+      "Pozdrav operatorki",
+      "Puno pozdrava"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B036",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači skraćenica 88?",
+    "options": [
+      "Prijemnik",
+      "Poljupci",
+      "Dnevnik",
+      "Ponavljanje"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B037",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači skraćenica CQ?",
+    "options": [
+      "Snaga",
+      "Ponavljanje",
+      "Antena",
+      "Opšti poziv"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B038",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači skraćenica DX?",
+    "options": [
+      "Operator",
+      "Dnevnik",
+      "Daleka veza",
+      "Lokalna veza"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B039",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači skraćenica PSE ili PLS?",
+    "options": [
+      "Hvala",
+      "Frekvencija",
+      "Prijemnik",
+      "Molim"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B040",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači skraćenica RPT?",
+    "options": [
+      "Ponovite raport",
+      "Pozivni znak",
+      "Dnevnik",
+      "Sever"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B041",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači skraćenica RST?",
+    "options": [
+      "Prijemnik",
+      "Izveštaj po RST skali",
+      "Frekvencija",
+      "Predajnik"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B042",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači skraćenica RX?",
+    "options": [
+      "Prijemnik",
+      "Smetnja",
+      "Predajnik",
+      "Antena"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B043",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači skraćenica TX?",
+    "options": [
+      "Dnevnik",
+      "Operator",
+      "Prijemnik",
+      "Predajnik"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B044",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači skraćenica TRX?",
+    "options": [
+      "Antenski vod",
+      "Samo predajnik",
+      "Primopredajnik",
+      "Samo prijemnik"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B045",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači skraćenica WX?",
+    "options": [
+      "Meteorološka situacija",
+      "Opseg",
+      "Morseov kod",
+      "Dnevnik"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B046",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koje međunarodno spelovanje odgovara slovu A?",
+    "options": [
+      "America",
+      "Alpha",
+      "Amsterdam",
+      "Austria"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B047",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koje međunarodno spelovanje odgovara slovu B?",
+    "options": [
+      "Baker",
+      "Beograd",
+      "Boston",
+      "Bravo"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B048",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koje međunarodno spelovanje odgovara slovu C?",
+    "options": [
+      "Charlie",
+      "Cetinje",
+      "Columbia",
+      "Canada"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B049",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koje međunarodno spelovanje odgovara slovu Q?",
+    "options": [
+      "Queen",
+      "Quebec",
+      "Quorum",
+      "Quality"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B050",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koje međunarodno spelovanje odgovara slovu Y?",
+    "options": [
+      "Yugoslavia",
+      "Yankee",
+      "Yellow",
+      "Ypsilon"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B051",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koje domaće spelovanje odgovara slovu Y?",
+    "options": [
+      "Ypsilon",
+      "Yankee",
+      "Valjevo",
+      "Užice"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B052",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koje domaće spelovanje odgovara slovu Q?",
+    "options": [
+      "Quebec",
+      "Kosovo",
+      "Golija",
+      "Kvorum"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B053",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koje domaće spelovanje odgovara slovu W?",
+    "options": [
+      "Duplo ve",
+      "Beograd",
+      "Whiskey",
+      "Valjevo"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B054",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRAVILNIK",
+    "sourceRef": "Važeća tabela sricanja, član 23",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kako se međunarodno sriče broj 9?",
+    "options": [
+      "Nine",
+      "Najn",
+      "Niner",
+      "Devet"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Važeća tabela sricanja, član 23. Usaglašeno sa važećom ITU tabelom sricanja: 9 = Nine."
+  },
+  {
+    "id": "B055",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "QTH lokator se sastoji od:",
+    "options": [
+      "3 znaka",
+      "10 znakova",
+      "6 znakova",
+      "4 znaka"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B056",
+    "section": "B",
+    "topic": "RST, dnevnik, Q-kod, skraćenice i sricanje",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55",
+    "sourcePage": 51,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Teritorija Republike Srbije pripada QTH poljima:",
+    "options": [
+      "JO i KO",
+      "JN i KN",
+      "IN i IO",
+      "KM i LM"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 51-55."
+  },
+  {
+    "id": "B057",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Ispravan QTH lokator ima:",
+    "options": [
+      "5 znakova",
+      "6 znakova",
+      "4 znaka",
+      "8 znakova"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B058",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Prva dva znaka QTH lokatora su:",
+    "options": [
+      "dva slova od A do X",
+      "dva broja od 0 do 9",
+      "dva proizvoljna znaka",
+      "dva slova od A do R"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B059",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Treći i četvrti znak QTH lokatora su:",
+    "options": [
+      "dva slova od A do X",
+      "dva slova od A do R",
+      "dva znaka interpunkcije",
+      "dva broja od 0 do 9"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B060",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Poslednja dva znaka QTH lokatora su:",
+    "options": [
+      "dva pozivna znaka",
+      "dva slova od A do X",
+      "dva slova od A do R",
+      "dva broja od 0 do 9"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B061",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Koji od sledećih zapisa je ispravan QTH lokator?",
+    "options": [
+      "KN04ET",
+      "K04NET",
+      "KNET04",
+      "KN4ET"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B062",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Novi Beograd se u priručniku navodi kao lokacija koja se većim delom nalazi u:",
+    "options": [
+      "JN04",
+      "KN72",
+      "JN72",
+      "KN04"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B063",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Radio-amaterskom vezom smatra se kontakt u kome su radio-amateri pravilno razmenili najmanje:",
+    "options": [
+      "ime i lokaciju",
+      "vremenske prilike i opseg",
+      "tip uređaja i antenu",
+      "pozivne znake i ocenu kvaliteta veze"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B064",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta je u radio-amaterskim vezama najstrože zabranjeno?",
+    "options": [
+      "razgovor o politici, nepristojan rečnik, vređanje i oglašavanje robe ili usluga",
+      "upotreba međunarodne fonetske tablice",
+      "razmena QTH lokatora",
+      "razmena imena operatora"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B065",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Da li radio-amateri smeju koristiti šifre i kriptovanje glasa ili podataka?",
+    "options": [
+      "Da, samo u međunarodnim vezama",
+      "Ne, zabranjeno je korišćenje šifri i kriptovanja",
+      "Da, uvek",
+      "Da, ako je stanica male snage"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B066",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta treba proveriti pre početka rada?",
+    "options": [
+      "ispravnost antene i vodova",
+      "samo cenu uređaja",
+      "samo pozivni znak sagovornika",
+      "samo boju antene"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B067",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Pre početka rada potrebno je proveriti:",
+    "options": [
+      "da li je oprema propisno uzemljena",
+      "da li je sagovornik član istog radio-kluba",
+      "da li je dnevnik stariji od dve godine",
+      "da li je frekvencija uvek zauzeta"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B068",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Nakon rada, prvo se isključuje:",
+    "options": [
+      "linearno pojačalo, ako postoji",
+      "QTH lokator",
+      "antena sa stuba",
+      "zvučnik"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B069",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji je jedan od načina da kontaktiramo nekoga radio-vezom?",
+    "options": [
+      "promenom QTH lokatora",
+      "upisom u dnevnik pre veze",
+      "promenom sufiksa u pozivnom znaku",
+      "opštim pozivom upućenim bilo kojoj stanici"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B070",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Pre provere da li je frekvencija slobodna, operator treba:",
+    "options": [
+      "da promeni pozivni znak",
+      "da odabere frekvenciju na kojoj ne čuje saobraćaj",
+      "odmah da počne predaju velikom snagom",
+      "da isključi prijemnik"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B071",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Kako se na engleskom proverava da li je frekvencija slobodna?",
+    "options": [
+      "Is this frequency in use?",
+      "Please change frequency",
+      "Calling CQ and standing by",
+      "This is frequency free?"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B072",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Kako se na srpskom proverava da li je frekvencija slobodna?",
+    "options": [
+      "Koja je moja tačna frekvencija?",
+      "Da li ste spremni za prijem?",
+      "Da li je frekvencija slobodna?",
+      "Koliko je tačno sati?"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B073",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Kako se u CW i digi modovima proverava da li je frekvencija slobodna?",
+    "options": [
+      "QRZ?",
+      "QRL?",
+      "QTH?",
+      "QSL?"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B074",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako posle tri poziva za proveru frekvencije nema odgovora, operator može:",
+    "options": [
+      "započeti sa pozivanjem",
+      "promeniti sopstveni pozivni znak",
+      "odmah završiti rad",
+      "zaključiti da je rad zabranjen"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B075",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Opšti poziv se u radio-amaterizmu označava sa:",
+    "options": [
+      "RST",
+      "CQ",
+      "QTH",
+      "QSL"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B076",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kako glasi osnovni oblik opšteg poziva na engleskom?",
+    "options": [
+      "QRZ only, no contact",
+      "QSL QSL, my QTH is...",
+      "RST 599 and stop",
+      "CQ CQ, pozivni znak pozivaoca, calling CQ and standing by"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B077",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kako se na srpskom može započeti opšti poziv?",
+    "options": [
+      "Opšti poziv svim stanicama na nazivu opsega",
+      "Zauzet sam",
+      "Povećajte snagu",
+      "Frekvencija nije važna"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B078",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kako se u CW i digi modovima obično poziva opštim pozivom?",
+    "options": [
+      "CQ CQ, pozivni znak, PSE K",
+      "RST RST, 599",
+      "WX WX, vreme",
+      "QTH QTH, lokacija"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B079",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kada pozivamo tačno određenog sagovornika, u CW obliku koristimo:",
+    "options": [
+      "samo sopstveni pozivni znak",
+      "pozivni znak sagovornika DE naš pozivni znak PSE K",
+      "samo QTH lokator",
+      "samo CQ bez pozivnog znaka"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B080",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta treba navesti prilikom pozivanja?",
+    "options": [
+      "samo snagu predajnika",
+      "naziv opsega na kome pozivamo",
+      "samo broj telefona",
+      "samo tačno vreme"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B081",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako je poziv prekratak i neko preslušava opseg, može se desiti da:",
+    "options": [
+      "dnevnik prestane da važi",
+      "predajnik promeni frekvenciju",
+      "antena automatski promeni polarizaciju",
+      "sagovornik ne stigne da čuje vaš poziv"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B082",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako je poziv predugačak, posledica može biti:",
+    "options": [
+      "SWR će postati 1:1",
+      "druge stanice neće moći da vam odgovore u pauzi",
+      "QTH lokator će postati neispravan",
+      "frekvencija će postati satelitska"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B083",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kada se u pile-up situaciji javi veliki broj stanica, pozivalac može:",
+    "options": [
+      "odmah promeniti svoj pozivni znak",
+      "prestati da vodi dnevnik",
+      "zabraniti sve DX veze",
+      "tražiti od stanice da ponovi deo ili ceo pozivni znak"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B084",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kada pozivalac odabere stanicu za vezu, prvo ponavlja:",
+    "options": [
+      "samo svoj QTH lokator",
+      "samo vremensku prognozu",
+      "samo naziv uređaja",
+      "znak stanice kojoj se obraća i daje raport"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B085",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koje informacije se obavezno razmenjuju na KV, UHF i SHF opsezima?",
+    "options": [
+      "ime operatora i zanimanje",
+      "ocena signala i QTH lokatori",
+      "cena uređaja i tip antene",
+      "podaci o radio-klubu"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B086",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Na kraju veze obično sledi:",
+    "options": [
+      "brisanje QTH lokatora",
+      "zabrana upisa u dnevnik",
+      "promena pozivnog znaka",
+      "pozdravljanje i eventualna razmena QSL informacija"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B087",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kada se veza završi, operator može ponovo pozvati opštim pozivom koristeći:",
+    "options": [
+      "QRM?",
+      "QRL?",
+      "QSY?",
+      "QRZ?"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B088",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kada se javljate stanici koja poziva, prvo pravilo je:",
+    "options": [
+      "odgovoriti samo imenom operatora",
+      "javljati se samo svojim pozivnim znakom",
+      "odgovoriti pozivnim znakom stanice koja poziva i zatim svojim pozivnim znakom",
+      "odgovoriti bez pozivnog znaka"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B089",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kako se na engleskom pravilno javlja stanici koja poziva?",
+    "options": [
+      "samo QRZ?",
+      "pozivni znak stanice koja poziva, this is, vaš pozivni znak",
+      "samo your report is 59",
+      "samo good morning"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B090",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kako se u CW i digi modovima pravilno javlja stanici koja poziva?",
+    "options": [
+      "QTH lokator bez pozivnog znaka",
+      "pozivni znak stanice koja poziva DE vaš pozivni znak PSE K",
+      "samo CQ CQ",
+      "samo 73"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B091",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači poziv „ONLY” ili „OUTSIDE EUROPE ONLY”?",
+    "options": [
+      "da se javljaju samo stanice iz tražene grupe",
+      "da je veza završena",
+      "da je zabranjen rad na toj frekvenciji",
+      "da se javljaju svi bez obzira na lokaciju"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B092",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako stanica poziva po brojevima, treba se javiti:",
+    "options": [
+      "samo ako radite preko repetitora",
+      "samo ako ste na VHF opsegu",
+      "samo ako u pozivnom znaku imate broj koji stanica poziva",
+      "uvek, bez obzira na broj"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B093",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kada nije naš red da se javimo u pile-up situaciji, treba:",
+    "options": [
+      "ne javljati se dok ne dođe naš red",
+      "ipak pozivati neprekidno",
+      "emitovati na izlazu repetitora",
+      "promeniti pozivni znak"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B094",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta treba uraditi na kraju svake veze?",
+    "options": [
+      "obrisati raport",
+      "isključiti dozvolu",
+      "promeniti opseg bez pozdrava",
+      "pozdraviti se i upisati vezu u dnevnik"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B095",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "U toku veze svaka relacija između učesnika mora početi:",
+    "options": [
+      "samo rečju „halo”",
+      "samo imenom operatora",
+      "pozivnim znakom stanice kojoj se obraćate",
+      "bez identifikacije"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B096",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "U toku veze, stanice imaju zakonsku obavezu da se identifikuju najmanje:",
+    "options": [
+      "na svakih 5 minuta",
+      "jednom dnevno",
+      "na svakih 10 minuta emitovanja",
+      "samo na kraju meseca"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B097",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako želite da se uključite u razgovor koji je u toku, treba:",
+    "options": [
+      "sačekati pauzu između dve relacije i jednom dati svoj pozivni znak",
+      "promeniti njihov kanal",
+      "prekinuti sagovornika odmah",
+      "emitovati preko drugih učesnika"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B098",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Kod rada preko repetitora, posebno treba voditi računa:",
+    "options": [
+      "da se emituje samo muzika",
+      "da se nikad ne koristi pozivni znak",
+      "da se uvek koristi šifrovanje",
+      "da se ne nepotrebno opterećuje repetitor dugačkim relacijama"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B099",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Primer „YT5IVN QRZ?” znači:",
+    "options": [
+      "YT5IVN završava dnevnik",
+      "YT5IVN traži tačno vreme",
+      "YT5IVN pita ko ga zove",
+      "YT5IVN menja frekvenciju"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B100",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "U domaćem primeru preko repetitora ocena Q5 znači:",
+    "options": [
+      "frekvencija je zauzeta",
+      "treba smanjiti snagu",
+      "nerazumljiv signal",
+      "potpuno razumljiv prolaz kroz repetitor"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B101",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "U međunarodnom primeru veze, izraz „QSL?” znači:",
+    "options": [
+      "Da li potvrđujete prijem?",
+      "Koja je vaša lokacija?",
+      "Pređite na drugu frekvenciju",
+      "Koliko je tačno sati?"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B102",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta označava pile-up?",
+    "options": [
+      "merenje SWR-a",
+      "rad radio-fara",
+      "rad samo na jednoj frekvenciji bez odgovora",
+      "situaciju kada se velik broj stanica istovremeno javlja stanici koja poziva"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B103",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Jedan od načina rada u pile-up situaciji je rad „by numbers”, što znači:",
+    "options": [
+      "pozivanje stanica prema broju u pozivnom znaku",
+      "zabrana javljanja stanica sa brojem",
+      "rad samo na brojevima 0 i 1",
+      "merenje frekvencije po brojevima"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B104",
+    "section": "B",
+    "topic": "Održavanje veza i pile-up",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60",
+    "sourcePage": 56,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Split rad u pile-up situaciji znači da:",
+    "options": [
+      "stanica poziva i sluša na istoj frekvenciji",
+      "stanica poziva na jednoj, a sluša na drugoj frekvenciji",
+      "stanica emituje samo telegrafiju",
+      "stanica radi bez prijema"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 56-60."
+  },
+  {
+    "id": "B105",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači rad u split modu?",
+    "options": [
+      "Stanica radi samo preko repetitora",
+      "Stanica emituje na jednoj frekvenciji, a sluša na drugoj",
+      "Stanica koristi samo jedan opseg",
+      "Predaja i prijem se vrše na istoj frekvenciji"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B106",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kako stanica u foniji najčešće najavljuje da sluša 3 kHz iznad svoje predajne frekvencije?",
+    "options": [
+      "QSL 3",
+      "Listening 3 down",
+      "QRZ 3",
+      "Listening 3 up"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B107",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako stanica najavi „listening 5 to 10 up“, to znači da sluša:",
+    "options": [
+      "5 do 10 kHz iznad svoje predajne frekvencije",
+      "5 do 10 kHz ispod svoje predajne frekvencije",
+      "na istoj frekvenciji",
+      "samo preko repetitora"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B108",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koju Q-skraćenicu koristimo za oznaku rada na drugoj frekvenciji pri split radu?",
+    "options": [
+      "QRN",
+      "QSL",
+      "QTH",
+      "QSX"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B109",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako se u split radu javimo na pogrešnoj frekvenciji, posledica je:",
+    "options": [
+      "QTH lokator postaje neispravan",
+      "automatski ćemo raditi preko repetitora",
+      "stanica koja poziva nas neće čuti",
+      "uvek ćemo biti glasniji"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B110",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Treća varijanta ograničavanja poziva kod pile-up rada je:",
+    "options": [
+      "zabrana davanja raporta",
+      "pozivanje po određenoj grupi stanica",
+      "rad samo preko radio-fara",
+      "rad bez pozivnog znaka"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B111",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako stanica poziva samo „outside Europe“, treba da se jave:",
+    "options": [
+      "samo stanice van Evrope",
+      "samo stanice iz Evrope",
+      "samo stanice sa QRP snagom",
+      "sve stanice"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B112",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "U radio-amaterskim takmičenjima osnovni cilj je najčešće:",
+    "options": [
+      "izbegavati razmenu raporta",
+      "ostvariti što više ispravnih veza u zadatom vremenu",
+      "držati frekvenciju zauzetom",
+      "koristiti što duže relacije"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B113",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ko određuje pravila radio-amaterskog takmičenja?",
+    "options": [
+      "samo ITU",
+      "svaka stanica za sebe",
+      "samo proizvođač radio-stanice",
+      "organizator takmičenja"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B114",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji podaci se u takmičarskoj vezi obično obavezno razmenjuju?",
+    "options": [
+      "RST i dodatni podatak koji odredi organizator",
+      "samo tip antene",
+      "samo QTH lokator",
+      "samo ime operatora"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B115",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Dodatni podatak u takmičenju može biti:",
+    "options": [
+      "tip stola",
+      "dužina kabla za napajanje",
+      "boja uređaja",
+      "redni broj veze"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B116",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta je multiplikator u takmičenju?",
+    "options": [
+      "podatak koji se računa za konačni rezultat prema pravilima takmičenja",
+      "vrsta antene",
+      "uređaj za smanjenje SWR-a",
+      "oznaka za lokalno vreme"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B117",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako je poen za ostvarenu vezu 0, to obično znači:",
+    "options": [
+      "veza je uvek pogrešna",
+      "veza nije urađena",
+      "veza je ostvarena sa sopstvenom DXCC zemljom",
+      "veza je preko satelita"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B118",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako je veza sa istim kontinentom 1 poen, a sa drugim kontinentom 3 poena, to je primer:",
+    "options": [
+      "merenja napona",
+      "podešavanja antene",
+      "bodovanja veza prema udaljenosti/regionu",
+      "izbora QTH lokatora"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B119",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Konačan rezultat u mnogim takmičenjima dobija se:",
+    "options": [
+      "dužinom antene",
+      "proizvodom QSO poena i broja multiplikatora",
+      "merenjem SWR-a",
+      "sabiranjem godina operatora"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B120",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači kategorija Single-Op?",
+    "options": [
+      "samo jedan prijemnik",
+      "više operatora",
+      "jedan operator",
+      "jedan repetitor"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B121",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači kategorija Multi-Op?",
+    "options": [
+      "više operatora",
+      "rad bez dnevnika",
+      "jedan operator",
+      "samo CW rad"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B122",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta označava High Power kategorija?",
+    "options": [
+      "rad bez predajnika",
+      "rad isključivo preko repetitora",
+      "malu snagu",
+      "maksimalnu dozvoljenu snagu emitovanja"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B123",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta označava Low Power kategorija prema tekstu?",
+    "options": [
+      "uvek manje od 1 W",
+      "uvek 1500 W",
+      "samo prijem",
+      "obično maksimalno 100 W"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B124",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta označava QRP kategorija prema tekstu?",
+    "options": [
+      "najmanje 100 W",
+      "obično maksimalno 10 W",
+      "rad bez pozivnog znaka",
+      "rad preko satelita"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B125",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači Single Band kategorija?",
+    "options": [
+      "rad samo preko repetitora",
+      "rad na svim opsezima",
+      "rad na jednom opsegu",
+      "rad samo jednom vezom"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B126",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači All Band kategorija?",
+    "options": [
+      "samo 2 m opseg",
+      "jedan opseg",
+      "svi dozvoljeni takmičarski opsezi",
+      "samo 70 cm opseg"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B127",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači Assisted kategorija?",
+    "options": [
+      "rad samo sa ručnom stanicom",
+      "dozvoljena pomoć klastera i skimera",
+      "rad bez ikakve pomoći",
+      "rad bez dnevnika"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B128",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta znači Non-Assisted kategorija?",
+    "options": [
+      "nedozvoljeni klasteri i skimeri",
+      "rad samo iz vozila",
+      "dozvoljeni klasteri",
+      "rad sa više operatora"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B129",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "U Single-Op kategoriji nije dozvoljeno:",
+    "options": [
+      "istovremeno emitovati dva signala na istom opsegu",
+      "dati pozivni znak",
+      "upisati vezu u dnevnik",
+      "raditi sa dozvoljenom snagom"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B130",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta je Checklog?",
+    "options": [
+      "oznaka za CW poziv",
+      "posebna vrsta antene",
+      "dnevnik za proveru koji se ne rangira u plasmanu",
+      "potvrda o licenci"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B131",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Posle završenog takmičenja takmičar treba da:",
+    "options": [
+      "obriše dnevnik",
+      "promeni pozivni znak",
+      "prekine korišćenje svih opsega",
+      "pošalje dnevnik organizatoru u propisanom roku"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B132",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji format dnevnika se najčešće koristi za slanje takmičarskih dnevnika?",
+    "options": [
+      "Cabrillo",
+      "DOCX",
+      "JPG",
+      "MP3"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B133",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta su claimed scores?",
+    "options": [
+      "lista repetitora",
+      "konačno odobrene diplome",
+      "oznake emisija",
+      "prijavljeni rezultati pre konačne provere"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B134",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta su final scores?",
+    "options": [
+      "lista opsega",
+      "spisak radio-farova",
+      "privremeni QTH lokatori",
+      "konačni rezultati po kategorijama"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B135",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "ARG takmičenje je takmičenje u:",
+    "options": [
+      "fonijskoj vezi preko repetitora",
+      "digitalnoj obradi signala",
+      "podešavanju antene",
+      "amaterskoj radio-goniometriji"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B136",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "HST takmičenje je takmičenje u:",
+    "options": [
+      "brzoj telegrafiji",
+      "satelitskom radu",
+      "radio-farovima",
+      "merenju SWR-a"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B137",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "ARMVS označava:",
+    "options": [
+      "Antenski radio-metar visokih snaga",
+      "Automatski repetitor male snage",
+      "Amatersku radio-mrežu u vanrednim situacijama",
+      "Analognu radio-mrežu za veze sa satelitima"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B138",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "U kojim okolnostima se može aktivirati amaterska radio-mreža u vanrednim situacijama?",
+    "options": [
+      "samo radi razmene QSL karata",
+      "samo pri promeni opsega",
+      "samo tokom takmičenja",
+      "pri poplavama, zemljotresima, požarima i drugim opasnostima"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B139",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ko ima pravo da pokrene radio-mrežu za opasnost?",
+    "options": [
+      "samo takmičarski organizator",
+      "svaki radio-amater koji proceni da je došlo do takve situacije",
+      "samo operator repetitora",
+      "samo proizvođač radio-stanice"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B140",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Radio-mreže u vanrednim situacijama mogu biti:",
+    "options": [
+      "samo lokalne",
+      "samo klupske",
+      "lokalne, regionalne, republičke ili globalne",
+      "samo međunarodne"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B141",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ko upravlja radio-mrežom u vanrednim situacijama?",
+    "options": [
+      "najglasnija stanica",
+      "proizvođač opreme",
+      "svaki učesnik nezavisno",
+      "načelnik radio-mreže"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B142",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kakve poruke treba prenositi u radio-mreži za opasnost?",
+    "options": [
+      "neproverene i što duže",
+      "relevantne, kratke i jasne",
+      "zabavne razgovore",
+      "reklamne poruke"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B143",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "U radio-mreži za opasnost zabranjeno je:",
+    "options": [
+      "voditi dnevnik poruka",
+      "prenositi nepotrebne i neproverene informacije",
+      "koristiti pozivni znak",
+      "slušati upravnu stanicu"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B144",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kako se prekida redovna komunikacija zbog vanredne situacije?",
+    "options": [
+      "izgovaranjem „CQ“ jednom",
+      "izgovaranjem „brejk“ tri puta uzastopce",
+      "davanjem QSL karte",
+      "slanjem takmičarskog dnevnika"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B145",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Domaći signal za opasnost u govornoj komunikaciji je:",
+    "options": [
+      "CQ",
+      "QRZ",
+      "QTH",
+      "PAŽNJA"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B146",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Međunarodni signal za opasnost u govornoj komunikaciji je:",
+    "options": [
+      "CQ",
+      "QSL",
+      "MAYDAY",
+      "RST"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B147",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Signal za opasnost u telegrafiji je:",
+    "options": [
+      "73",
+      "RPT",
+      "QRO",
+      "SOS"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B148",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "QSL karta služi za:",
+    "options": [
+      "merenje izlazne snage",
+      "podešavanje antene",
+      "potvrđivanje održane veze",
+      "izbor frekvencije repetitora"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B149",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Standardni izgled QSL karte prema tekstu je približno:",
+    "options": [
+      "30 x 40 cm",
+      "5 x 5 cm",
+      "21 x 30 cm",
+      "9 x 14 cm"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B150",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Na QSL karti se obavezno mora nalaziti:",
+    "options": [
+      "cena uređaja",
+      "pozivni znak stanice koja šalje QSL kartu",
+      "naziv automobila",
+      "broj lične karte"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B151",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji podatak je uobičajen na QSL karti?",
+    "options": [
+      "broj bankovnog računa",
+      "datum i vreme po UTC",
+      "lozinka operatora",
+      "kućna adresa svih sagovornika"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B152",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta je QSL biro?",
+    "options": [
+      "tip antene",
+      "vrsta repetitora",
+      "organizovan način slanja i primanja QSL karata preko radio-amaterskih saveza",
+      "uređaj za merenje frekvencije"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B153",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako se QSL karta šalje direktnom poštom, često se prilaže:",
+    "options": [
+      "SAE i IRC kupon",
+      "SWR metar",
+      "antenski tjuner",
+      "QTH karta sveta"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B154",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Elektronske QSL karte najčešće se razmenjuju:",
+    "options": [
+      "samo ručnom dostavom",
+      "preko repetitora bez interneta",
+      "preko online servisa",
+      "preko fonijske veze"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B155",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Koji online servis je u tekstu naveden za elektronske QSL karte?",
+    "options": [
+      "LoTW",
+      "SWR",
+      "PLL",
+      "VFO"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B156",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta je OQRS?",
+    "options": [
+      "Operator QTH Report System",
+      "Online QSL Requesting Service",
+      "Official QRP Radio Service",
+      "Output Quality Radio Signal"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B157",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "DXCC diploma se dobija za urađene veze sa:",
+    "options": [
+      "100 DXCC zemalja",
+      "10 radio-klubova",
+      "50 repetitora",
+      "5 QTH lokatora"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B158",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "WAC diploma znači:",
+    "options": [
+      "Wide Area Channel",
+      "Wireless Amateur Contest",
+      "Worked All Continents",
+      "World Antenna Certificate"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B159",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "WAE diploma znači:",
+    "options": [
+      "World Amateur Equipment",
+      "Worked All Europe",
+      "Worked All Earth",
+      "Wireless Audio Emission"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B160",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "WAZ diploma odnosi se na potvrđene veze sa:",
+    "options": [
+      "svih lokalnih radio-klubova",
+      "svih 40 CQ zona",
+      "svih 10 QTH polja",
+      "svih repetitora u jednoj zemlji"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B161",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta je SOTA?",
+    "options": [
+      "Summits On The Air",
+      "Satellites On The Air",
+      "Simplex On The Air",
+      "Serbian Operators Technical Award"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B162",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta je IOTA?",
+    "options": [
+      "Islands On The Air",
+      "Internet Online Traffic Award",
+      "Indoor Operation Training Area",
+      "International Operators Test Award"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B163",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Šta je POTA?",
+    "options": [
+      "Propagation Over The Air",
+      "Packet On The Air",
+      "Parks On The Air",
+      "Portable Operators Technical Association"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B164",
+    "section": "B",
+    "topic": "Split rad, takmičenja, ARMVS i QSL",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65",
+    "sourcePage": 61,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Diplome za određene jubileje najčešće se dobijaju za:",
+    "options": [
+      "ispunjene uslove, obično određen broj kontakata sa stanicom ili stanicama koje promovišu jubilej",
+      "samo slušanje radio-difuzije",
+      "samo članstvo u internet grupi",
+      "samo kupovinu opreme"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 61-65."
+  },
+  {
+    "id": "B165",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "HAM spirit predstavlja:",
+    "options": [
+      "oznaku za tip emisije",
+      "radio-amaterski bonton i duh korektnog ponašanja",
+      "vrstu antene",
+      "međunarodni prefiks"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B166",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Na radio-amaterskim opsezima treba se ponašati:",
+    "options": [
+      "što glasnije, bez obzira na druge",
+      "samo u skladu sa ličnim pravilima",
+      "samo tokom takmičenja",
+      "pristojno i uz poštovanje drugih radio-amatera"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B167",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Radio-amater je pažljiv i pun obzira, što znači da:",
+    "options": [
+      "ne sme raditi van svog grada",
+      "mora stalno raditi najvećom snagom",
+      "neće svesno ometati druge i uskraćivati im zadovoljstvo rada",
+      "ne sme koristiti prijemnik"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B168",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Radio-amater je, prema kodeksu, odan i privržen:",
+    "options": [
+      "pokretu, klubu, drugim radio-amaterima i svom savezu",
+      "samo takmičenjima",
+      "samo proizvođaču svoje opreme",
+      "samo lokalnom repetitoru"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B169",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Radio-amater prati razvoj:",
+    "options": [
+      "poštanskih markica",
+      "nauke i tehnike",
+      "samo meteorologije",
+      "samo propisa o saobraćaju"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B170",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Radio-amater je uvek:",
+    "options": [
+      "neprijateljski nastrojen prema početnicima",
+      "obavezan da radi samo DX",
+      "dužan da koristi samo telegrafiju",
+      "prijatelj drugima i spreman da pomogne"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B171",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Radio-amater ne sme dozvoliti da mu radio-amaterska aktivnost:",
+    "options": [
+      "smeta porodici, poslu, školi ili društvu",
+      "razvije disciplinu u radu",
+      "poboljša tehničko znanje",
+      "donese nova poznanstva"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B172",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Radio-amater je rodoljub i svoje znanje i uređaje spreman je da stavi u službu:",
+    "options": [
+      "samo takmičarskog rezultata",
+      "svog društva i otadžbine",
+      "samo radio-kluba u inostranstvu",
+      "samo DX veza"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B173",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Pre nego što pozove DX stanicu, operator prema DX pravilima prvo treba:",
+    "options": [
+      "slušati i opet slušati",
+      "promeniti svoj pozivni znak",
+      "odmah pozvati više puta",
+      "povećati snagu bez provere"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B174",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kada prema DX pravilima treba zvati DX stanicu?",
+    "options": [
+      "bez svog pozivnog znaka",
+      "samo preko repetitora",
+      "samo ako možemo primiti njeno emitovanje",
+      "uvek, bez obzira da li je čujemo"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B175",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Pre pozivanja DX stanice treba proveriti:",
+    "options": [
+      "da li je dnevnik stariji od dve godine",
+      "da li imamo novu antenu",
+      "da li smo pravilno primili njen pozivni znak",
+      "da li je opseg uvek zatvoren"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B176",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Da li treba ometati DX stanicu ili njenog sagovornika?",
+    "options": [
+      "Da, tokom pile-up-a",
+      "Da, ako radimo većom snagom",
+      "Ne",
+      "Da, ako je signal slab"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B177",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Na frekvenciji na kojoj DX stanica emituje ili sluša:",
+    "options": [
+      "treba stalno podešavati predajnik",
+      "treba emitovati probni ton",
+      "ne treba tjunovati predajnik",
+      "treba držati nosilac bez potrebe"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B178",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Pre pozivanja treba sačekati da:",
+    "options": [
+      "DX stanica završi kontakt",
+      "opseg postane nelegalan",
+      "druga stanica izgubi signal",
+      "repetitor promeni frekvenciju"
+    ],
+    "correct": 0,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B179",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Prilikom pozivanja DX stanice treba koristiti:",
+    "options": [
+      "samo sufiks",
+      "isključivo svoj puni pozivni znak",
+      "samo nadimak",
+      "samo QTH lokator"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B180",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kako treba pozivati DX stanicu da je ne ometamo?",
+    "options": [
+      "neprekidno, bez pauze",
+      "samo bez identifikacije",
+      "samo kada poziva drugi kontinent",
+      "samo jednom, uz razuman interval za proveru da li je počela vezu sa nekim drugim"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B181",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako DX stanica pozove treću stanicu, a ne nas:",
+    "options": [
+      "treba promeniti njen pozivni znak",
+      "treba slati QSL odmah",
+      "treba nastaviti pozivanje",
+      "ne treba emitovati"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B182",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako DX stanica pozove parcijalni pozivni znak koji ne liči na naš:",
+    "options": [
+      "treba se javiti kao da je naš",
+      "treba ponavljati pozivni znak",
+      "ne treba emitovati",
+      "treba pozvati preko repetitora"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B183",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako DX stanica poziva geografsko područje kome ne pripadamo:",
+    "options": [
+      "treba promeniti QTH lokator",
+      "treba pozivati što češće",
+      "treba preći na FM",
+      "ne treba pozivati"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B184",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kada DX stanica pozove naš pozivni znak:",
+    "options": [
+      "obavezno ga ponavljamo deset puta",
+      "menjamo pozivni znak",
+      "ne treba ga nepotrebno ponavljati ako mislimo da ga je primila",
+      "prekidamo vezu bez raporta"
+    ],
+    "correct": 2,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B185",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Posle ostvarene veze sa DX stanicom treba:",
+    "options": [
+      "zabraniti drugima da zovu",
+      "ometati sledeće veze",
+      "odmah emitovati preko sagovornika",
+      "biti zahvalan i ponašati se korektno"
+    ],
+    "correct": 3,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  },
+  {
+    "id": "B186",
+    "section": "B",
+    "topic": "Radio-amaterski kodeks i DX pravila",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, str. 66",
+    "sourcePage": 66,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Prema DX pravilima ponašanja, operator treba:",
+    "options": [
+      "raditi bez identifikacije",
+      "poštovati kolege radio-amatere",
+      "slati neproverene poruke",
+      "koristiti šifre u vezi"
+    ],
+    "correct": 1,
+    "explanation": "Tačan odgovor je zasnovan na izvoru: Priručnik za polaganje ispita za radio-amaterske licence, str. 66."
+  }
+]

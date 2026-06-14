@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "A399",
+    "section": "A",
+    "topic": "Omov zakon",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako je otpor 50 oma, a struja 2 A, koliki je napon?",
+    "options": [
+      "100 V",
+      "25 V",
+      "52 V",
+      "48 V"
+    ],
+    "correct": 0,
+    "explanation": "Po Omovom zakonu U = R * I = 50 * 2 = 100 V."
+  },
+  {
+    "id": "A400",
+    "section": "A",
+    "topic": "Omov zakon",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako je napon 12 V, a otpor 6 oma, kolika je struja?",
+    "options": [
+      "2 A",
+      "6 A",
+      "18 A",
+      "0.5 A"
+    ],
+    "correct": 0,
+    "explanation": "Po Omovom zakonu I = U / R = 12 / 6 = 2 A."
+  },
+  {
+    "id": "A401",
+    "section": "A",
+    "topic": "Omov zakon",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako je napon 24 V, a struja 3 A, koliki je otpor?",
+    "options": [
+      "8 oma",
+      "72 oma",
+      "21 oma",
+      "27 oma"
+    ],
+    "correct": 0,
+    "explanation": "Po Omovom zakonu R = U / I = 24 / 3 = 8 oma."
+  },
+  {
+    "id": "A402",
+    "section": "A",
+    "topic": "Omov zakon",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Kroz otpornik od 200 oma teče struja 0.05 A. Koliki je napon?",
+    "options": [
+      "10 V",
+      "4 V",
+      "40 V",
+      "200 V"
+    ],
+    "correct": 0,
+    "explanation": "Napon je U = R * I = 200 * 0.05 = 10 V."
+  },
+  {
+    "id": "A403",
+    "section": "A",
+    "topic": "Omov zakon",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Ako je na otporniku 9 V, a kroz njega teče 30 mA, koliki je otpor?",
+    "options": [
+      "300 oma",
+      "30 oma",
+      "270 oma",
+      "3 oma"
+    ],
+    "correct": 0,
+    "explanation": "Struja 30 mA je 0.03 A, pa je R = 9 / 0.03 = 300 oma."
+  },
+  {
+    "id": "A404",
+    "section": "A",
+    "topic": "Omov zakon",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Ako je otpor 1.2 k oma, a napon 12 V, kolika je struja?",
+    "options": [
+      "10 mA",
+      "100 mA",
+      "1 mA",
+      "120 mA"
+    ],
+    "correct": 0,
+    "explanation": "1.2 k oma je 1200 oma, pa je I = 12 / 1200 = 0.01 A = 10 mA."
+  },
+  {
+    "id": "A405",
+    "section": "A",
+    "topic": "Omov zakon",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako kroz otpor od 4 oma teče struja 5 A, koliki je napon?",
+    "options": [
+      "20 V",
+      "9 V",
+      "1.25 V",
+      "45 V"
+    ],
+    "correct": 0,
+    "explanation": "Napon je U = R * I = 4 * 5 = 20 V."
+  },
+  {
+    "id": "A406",
+    "section": "A",
+    "topic": "Električna snaga",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako je napon 12 V, a struja 2 A, kolika je električna snaga?",
+    "options": [
+      "24 W",
+      "6 W",
+      "14 W",
+      "10 W"
+    ],
+    "correct": 0,
+    "explanation": "Snaga je P = U * I = 12 * 2 = 24 W."
+  },
+  {
+    "id": "A407",
+    "section": "A",
+    "topic": "Električna snaga",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako potrošač ima snagu 60 W na naponu 12 V, kolika je struja?",
+    "options": [
+      "5 A",
+      "12 A",
+      "48 A",
+      "0.2 A"
+    ],
+    "correct": 0,
+    "explanation": "Struja je I = P / U = 60 / 12 = 5 A."
+  },
+  {
+    "id": "A408",
+    "section": "A",
+    "topic": "Električna snaga",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako je snaga 100 W, a struja 5 A, koliki je napon?",
+    "options": [
+      "20 V",
+      "500 V",
+      "95 V",
+      "105 V"
+    ],
+    "correct": 0,
+    "explanation": "Napon je U = P / I = 100 / 5 = 20 V."
+  },
+  {
+    "id": "A409",
+    "section": "A",
+    "topic": "Električna snaga",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Predajnik uzima 13.8 V i 10 A iz napajanja. Kolika je ulazna snaga?",
+    "options": [
+      "138 W",
+      "23.8 W",
+      "1.38 W",
+      "1380 W"
+    ],
+    "correct": 0,
+    "explanation": "Snaga je P = U * I = 13.8 * 10 = 138 W."
+  },
+  {
+    "id": "A410",
+    "section": "A",
+    "topic": "Električna snaga",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Ako uređaj troši 25 W pri naponu 5 V, kolika je struja?",
+    "options": [
+      "5 A",
+      "20 A",
+      "0.2 A",
+      "30 A"
+    ],
+    "correct": 0,
+    "explanation": "Struja je I = P / U = 25 / 5 = 5 A."
+  },
+  {
+    "id": "A411",
+    "section": "A",
+    "topic": "Električna snaga",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Ako je snaga 36 W, a struja 3 A, koliki je napon?",
+    "options": [
+      "12 V",
+      "39 V",
+      "108 V",
+      "33 V"
+    ],
+    "correct": 0,
+    "explanation": "Napon je U = P / I = 36 / 3 = 12 V."
+  },
+  {
+    "id": "A412",
+    "section": "A",
+    "topic": "Električna snaga",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Ako je napon 230 V, a struja 1 A, kolika je snaga?",
+    "options": [
+      "230 W",
+      "231 W",
+      "229 W",
+      "23 W"
+    ],
+    "correct": 0,
+    "explanation": "Snaga je P = U * I = 230 * 1 = 230 W."
+  },
+  {
+    "id": "A413",
+    "section": "A",
+    "topic": "Kapacitet baterije",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Baterija se prazni strujom 2 A tokom 3 sata. Koliki je utrošeni kapacitet?",
+    "options": [
+      "6 Ah",
+      "1.5 Ah",
+      "5 Ah",
+      "9 Ah"
+    ],
+    "correct": 0,
+    "explanation": "Kapacitet je Q = I * t = 2 * 3 = 6 Ah."
+  },
+  {
+    "id": "A414",
+    "section": "A",
+    "topic": "Kapacitet baterije",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Baterija kapaciteta 10 Ah radi 5 sati. Kolika je prosečna struja?",
+    "options": [
+      "2 A",
+      "5 A",
+      "10 A",
+      "50 A"
+    ],
+    "correct": 0,
+    "explanation": "Struja je I = Q / t = 10 / 5 = 2 A."
+  },
+  {
+    "id": "A415",
+    "section": "A",
+    "topic": "Kapacitet baterije",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Baterija od 12 Ah napaja uređaj strujom 3 A. Koliko vremena može da radi?",
+    "options": [
+      "4 h",
+      "9 h",
+      "15 h",
+      "36 h"
+    ],
+    "correct": 0,
+    "explanation": "Vreme je t = Q / I = 12 / 3 = 4 h."
+  },
+  {
+    "id": "A416",
+    "section": "A",
+    "topic": "Kapacitet baterije",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Uređaj troši 500 mA tokom 6 sati. Koliki kapacitet je potreban?",
+    "options": [
+      "3 Ah",
+      "0.3 Ah",
+      "6.5 Ah",
+      "12 Ah"
+    ],
+    "correct": 0,
+    "explanation": "500 mA je 0.5 A, pa je Q = 0.5 * 6 = 3 Ah."
+  },
+  {
+    "id": "A417",
+    "section": "A",
+    "topic": "Kapacitet baterije",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Baterija od 7 Ah prazni se strujom 1.4 A. Koliko približno traje rad?",
+    "options": [
+      "5 h",
+      "7 h",
+      "9.8 h",
+      "2 h"
+    ],
+    "correct": 0,
+    "explanation": "Vreme je t = Q / I = 7 / 1.4 = 5 h."
+  },
+  {
+    "id": "A418",
+    "section": "A",
+    "topic": "Kapacitet baterije",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Ako je za 4 sata potrošeno 8 Ah, kolika je prosečna struja?",
+    "options": [
+      "2 A",
+      "4 A",
+      "12 A",
+      "0.5 A"
+    ],
+    "correct": 0,
+    "explanation": "Struja je I = Q / t = 8 / 4 = 2 A."
+  },
+  {
+    "id": "A419",
+    "section": "A",
+    "topic": "Otpornici",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Dva otpornika od 10 oma i 20 oma vezana su redno. Koliki je ukupan otpor?",
+    "options": [
+      "30 oma",
+      "10 oma",
+      "20 oma",
+      "200 oma"
+    ],
+    "correct": 0,
+    "explanation": "Kod redne veze otpori se sabiraju: R = 10 + 20 = 30 oma."
+  },
+  {
+    "id": "A420",
+    "section": "A",
+    "topic": "Otpornici",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Tri otpornika od 5 oma vezana su redno. Koliki je ukupan otpor?",
+    "options": [
+      "15 oma",
+      "5 oma",
+      "10 oma",
+      "125 oma"
+    ],
+    "correct": 0,
+    "explanation": "Kod redne veze R = 5 + 5 + 5 = 15 oma."
+  },
+  {
+    "id": "A421",
+    "section": "A",
+    "topic": "Otpornici",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Dva jednaka otpornika od 100 oma vezana su paralelno. Koliki je ukupan otpor?",
+    "options": [
+      "50 oma",
+      "100 oma",
+      "200 oma",
+      "25 oma"
+    ],
+    "correct": 0,
+    "explanation": "Za dva jednaka paralelna otpornika ukupan otpor je polovina: 100 / 2 = 50 oma."
+  },
+  {
+    "id": "A422",
+    "section": "A",
+    "topic": "Otpornici",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Dva jednaka otpornika od 1 k oma vezana su paralelno. Koliki je ukupan otpor?",
+    "options": [
+      "500 oma",
+      "1 k oma",
+      "2 k oma",
+      "250 oma"
+    ],
+    "correct": 0,
+    "explanation": "Za dva jednaka paralelna otpornika ukupan otpor je polovina: 1000 / 2 = 500 oma."
+  },
+  {
+    "id": "A423",
+    "section": "A",
+    "topic": "Otpornici",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Otpornici od 20 oma i 20 oma vezani su paralelno. Koliki je ukupan otpor?",
+    "options": [
+      "10 oma",
+      "20 oma",
+      "40 oma",
+      "5 oma"
+    ],
+    "correct": 0,
+    "explanation": "Dva jednaka paralelna otpornika daju polovinu pojedinačnog otpora: 20 / 2 = 10 oma."
+  },
+  {
+    "id": "A424",
+    "section": "A",
+    "topic": "Otpornici",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Otpornici od 100 oma i 300 oma vezani su paralelno. Koliki je ukupan otpor?",
+    "options": [
+      "75 oma",
+      "150 oma",
+      "200 oma",
+      "400 oma"
+    ],
+    "correct": 0,
+    "explanation": "Za dva paralelna otpornika R = R1 * R2 / (R1 + R2) = 100 * 300 / 400 = 75 oma."
+  },
+  {
+    "id": "A425",
+    "section": "A",
+    "topic": "Otpornici",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Otpornici od 30 oma i 60 oma vezani su paralelno. Koliki je ukupan otpor?",
+    "options": [
+      "20 oma",
+      "45 oma",
+      "90 oma",
+      "30 oma"
+    ],
+    "correct": 0,
+    "explanation": "R = 30 * 60 / (30 + 60) = 1800 / 90 = 20 oma."
+  },
+  {
+    "id": "A426",
+    "section": "A",
+    "topic": "Kondenzatori",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kondenzatori od 10 pF i 20 pF vezani su paralelno. Koliki je ukupan kapacitet?",
+    "options": [
+      "30 pF",
+      "10 pF",
+      "20 pF",
+      "200 pF"
+    ],
+    "correct": 0,
+    "explanation": "Kod paralelne veze kapaciteti se sabiraju: C = 10 + 20 = 30 pF."
+  },
+  {
+    "id": "A427",
+    "section": "A",
+    "topic": "Kondenzatori",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Tri kondenzatora od 100 nF vezana su paralelno. Koliki je ukupan kapacitet?",
+    "options": [
+      "300 nF",
+      "100 nF",
+      "33 nF",
+      "30 nF"
+    ],
+    "correct": 0,
+    "explanation": "Kod paralelne veze C = 100 + 100 + 100 = 300 nF."
+  },
+  {
+    "id": "A428",
+    "section": "A",
+    "topic": "Kondenzatori",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Dva jednaka kondenzatora od 100 pF vezana su redno. Koliki je ukupan kapacitet?",
+    "options": [
+      "50 pF",
+      "100 pF",
+      "200 pF",
+      "25 pF"
+    ],
+    "correct": 0,
+    "explanation": "Za dva jednaka redno vezana kondenzatora kapacitet je polovina: 100 / 2 = 50 pF."
+  },
+  {
+    "id": "A429",
+    "section": "A",
+    "topic": "Kondenzatori",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Dva jednaka kondenzatora od 10 nF vezana su redno. Koliki je ukupan kapacitet?",
+    "options": [
+      "5 nF",
+      "10 nF",
+      "20 nF",
+      "1 nF"
+    ],
+    "correct": 0,
+    "explanation": "Za dva jednaka redno vezana kondenzatora kapacitet je 10 / 2 = 5 nF."
+  },
+  {
+    "id": "A430",
+    "section": "A",
+    "topic": "Kondenzatori",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kondenzatori od 47 pF i 53 pF vezani su paralelno. Koliki je ukupan kapacitet?",
+    "options": [
+      "100 pF",
+      "47 pF",
+      "53 pF",
+      "6 pF"
+    ],
+    "correct": 0,
+    "explanation": "Kod paralelne veze C = 47 + 53 = 100 pF."
+  },
+  {
+    "id": "A431",
+    "section": "A",
+    "topic": "Kondenzatori",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Dva jednaka kondenzatora od 22 pF vezana su redno. Koliki je ukupan kapacitet?",
+    "options": [
+      "11 pF",
+      "22 pF",
+      "44 pF",
+      "2 pF"
+    ],
+    "correct": 0,
+    "explanation": "Za dva jednaka redno vezana kondenzatora ukupan kapacitet je polovina: 22 / 2 = 11 pF."
+  },
+  {
+    "id": "A432",
+    "section": "A",
+    "topic": "Induktivnosti",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Zavojnice od 2 uH i 3 uH vezane su redno. Kolika je ukupna induktivnost?",
+    "options": [
+      "5 uH",
+      "1 uH",
+      "6 uH",
+      "2.5 uH"
+    ],
+    "correct": 0,
+    "explanation": "Kod redne veze induktivnosti se sabiraju: L = 2 + 3 = 5 uH."
+  },
+  {
+    "id": "A433",
+    "section": "A",
+    "topic": "Induktivnosti",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Tri zavojnice od 10 uH vezane su redno. Kolika je ukupna induktivnost?",
+    "options": [
+      "30 uH",
+      "10 uH",
+      "3.3 uH",
+      "100 uH"
+    ],
+    "correct": 0,
+    "explanation": "Kod redne veze L = 10 + 10 + 10 = 30 uH."
+  },
+  {
+    "id": "A434",
+    "section": "A",
+    "topic": "Induktivnosti",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Dve jednake zavojnice od 20 uH vezane su paralelno. Kolika je ukupna induktivnost?",
+    "options": [
+      "10 uH",
+      "20 uH",
+      "40 uH",
+      "5 uH"
+    ],
+    "correct": 0,
+    "explanation": "Za dve jednake paralelne zavojnice ukupna induktivnost je polovina: 20 / 2 = 10 uH."
+  },
+  {
+    "id": "A435",
+    "section": "A",
+    "topic": "Induktivnosti",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Dve jednake zavojnice od 100 uH vezane su paralelno. Kolika je ukupna induktivnost?",
+    "options": [
+      "50 uH",
+      "100 uH",
+      "200 uH",
+      "25 uH"
+    ],
+    "correct": 0,
+    "explanation": "Za dve jednake paralelne zavojnice L = 100 / 2 = 50 uH."
+  },
+  {
+    "id": "A436",
+    "section": "A",
+    "topic": "Induktivnosti",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Zavojnice od 4 uH i 6 uH vezane su redno. Kolika je ukupna induktivnost?",
+    "options": [
+      "10 uH",
+      "2 uH",
+      "24 uH",
+      "5 uH"
+    ],
+    "correct": 0,
+    "explanation": "Kod redne veze L = 4 + 6 = 10 uH."
+  },
+  {
+    "id": "A437",
+    "section": "A",
+    "topic": "Induktivnosti",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Dve jednake zavojnice od 8 uH vezane su paralelno. Kolika je ukupna induktivnost?",
+    "options": [
+      "4 uH",
+      "8 uH",
+      "16 uH",
+      "64 uH"
+    ],
+    "correct": 0,
+    "explanation": "Za dve jednake paralelne zavojnice ukupna induktivnost je 8 / 2 = 4 uH."
+  },
+  {
+    "id": "A438",
+    "section": "A",
+    "topic": "Frekvencija i talasna dužina",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kolika je talasna dužina signala frekvencije 30 MHz?",
+    "options": [
+      "10 m",
+      "3 m",
+      "30 m",
+      "100 m"
+    ],
+    "correct": 0,
+    "explanation": "Talasna dužina je lambda = 300 / f_MHz = 300 / 30 = 10 m."
+  },
+  {
+    "id": "A439",
+    "section": "A",
+    "topic": "Frekvencija i talasna dužina",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kolika je talasna dužina signala frekvencije 150 MHz?",
+    "options": [
+      "2 m",
+      "20 m",
+      "0.2 m",
+      "5 m"
+    ],
+    "correct": 0,
+    "explanation": "Talasna dužina je lambda = 300 / 150 = 2 m."
+  },
+  {
+    "id": "A440",
+    "section": "A",
+    "topic": "Frekvencija i talasna dužina",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kolika je frekvencija signala talasne dužine 10 m?",
+    "options": [
+      "30 MHz",
+      "3 MHz",
+      "300 MHz",
+      "100 MHz"
+    ],
+    "correct": 0,
+    "explanation": "Frekvencija je f_MHz = 300 / lambda_m = 300 / 10 = 30 MHz."
+  },
+  {
+    "id": "A441",
+    "section": "A",
+    "topic": "Frekvencija i talasna dužina",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Kolika je frekvencija signala talasne dužine 2 m?",
+    "options": [
+      "150 MHz",
+      "60 MHz",
+      "300 MHz",
+      "600 MHz"
+    ],
+    "correct": 0,
+    "explanation": "Frekvencija je f_MHz = 300 / 2 = 150 MHz."
+  },
+  {
+    "id": "A442",
+    "section": "A",
+    "topic": "Frekvencija i talasna dužina",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Kolika je približna talasna dužina signala frekvencije 50 MHz?",
+    "options": [
+      "6 m",
+      "5 m",
+      "10 m",
+      "60 m"
+    ],
+    "correct": 0,
+    "explanation": "Talasna dužina je lambda = 300 / 50 = 6 m."
+  },
+  {
+    "id": "A443",
+    "section": "A",
+    "topic": "Frekvencija i talasna dužina",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Kolika je približna frekvencija signala talasne dužine 6 m?",
+    "options": [
+      "50 MHz",
+      "30 MHz",
+      "100 MHz",
+      "300 MHz"
+    ],
+    "correct": 0,
+    "explanation": "Frekvencija je f_MHz = 300 / 6 = 50 MHz."
+  },
+  {
+    "id": "A444",
+    "section": "A",
+    "topic": "Frekvencija i talasna dužina",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Kolika je talasna dužina signala frekvencije 100 MHz?",
+    "options": [
+      "3 m",
+      "1 m",
+      "10 m",
+      "30 m"
+    ],
+    "correct": 0,
+    "explanation": "Talasna dužina je lambda = 300 / 100 = 3 m."
+  },
+  {
+    "id": "A445",
+    "section": "A",
+    "topic": "Frekvencija i talasna dužina",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Kolika je frekvencija signala talasne dužine 3 m?",
+    "options": [
+      "100 MHz",
+      "30 MHz",
+      "90 MHz",
+      "300 MHz"
+    ],
+    "correct": 0,
+    "explanation": "Frekvencija je f_MHz = 300 / 3 = 100 MHz."
+  },
+  {
+    "id": "A446",
+    "section": "A",
+    "topic": "Decibeli",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Antena ima dobitak 6 dB, a kabl gubitak 2 dB. Koliki je ukupan dobitak sistema?",
+    "options": [
+      "4 dB",
+      "8 dB",
+      "3 dB",
+      "12 dB"
+    ],
+    "correct": 0,
+    "explanation": "Ukupan dobitak je dobitak antene minus gubitak kabla: 6 - 2 = 4 dB."
+  },
+  {
+    "id": "A447",
+    "section": "A",
+    "topic": "Decibeli",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Antena ima dobitak 3 dB, a kabl gubitak 1 dB. Koliki je ukupan dobitak?",
+    "options": [
+      "2 dB",
+      "4 dB",
+      "3 dB",
+      "1 dB"
+    ],
+    "correct": 0,
+    "explanation": "Ukupan dobitak je 3 - 1 = 2 dB."
+  },
+  {
+    "id": "A448",
+    "section": "A",
+    "topic": "Decibeli",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Antena ima dobitak 9 dB, a kabl gubitak 3 dB. Koliki je ukupan dobitak?",
+    "options": [
+      "6 dB",
+      "12 dB",
+      "3 dB",
+      "27 dB"
+    ],
+    "correct": 0,
+    "explanation": "Ukupan dobitak je 9 - 3 = 6 dB."
+  },
+  {
+    "id": "A449",
+    "section": "A",
+    "topic": "Decibeli",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Povećanje od 3 dB približno znači:",
+    "options": [
+      "Dvostruko veću snagu",
+      "Deset puta veću snagu",
+      "Polovinu snage",
+      "Bez promene snage"
+    ],
+    "correct": 0,
+    "explanation": "Povećanje od 3 dB približno odgovara dvostrukoj snazi."
+  },
+  {
+    "id": "A450",
+    "section": "A",
+    "topic": "Decibeli",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Smanjenje od 3 dB približno znači:",
+    "options": [
+      "Polovinu snage",
+      "Dvostruku snagu",
+      "Deset puta manju snagu",
+      "Bez promene snage"
+    ],
+    "correct": 0,
+    "explanation": "Smanjenje od 3 dB približno odgovara polovini snage."
+  },
+  {
+    "id": "A451",
+    "section": "A",
+    "topic": "Decibeli",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Povećanje od 6 dB približno znači:",
+    "options": [
+      "Četiri puta veću snagu",
+      "Dvostruko veću snagu",
+      "Deset puta veću snagu",
+      "Polovinu snage"
+    ],
+    "correct": 0,
+    "explanation": "Povećanje od 6 dB približno odgovara četvorostrukoj snazi."
+  },
+  {
+    "id": "A452",
+    "section": "A",
+    "topic": "Decibeli",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Antena ima dobitak 5 dB, a kabl gubitak 5 dB. Koliki je ukupan dobitak?",
+    "options": [
+      "0 dB",
+      "10 dB",
+      "25 dB",
+      "1 dB"
+    ],
+    "correct": 0,
+    "explanation": "Ukupan dobitak je 5 - 5 = 0 dB."
+  },
+  {
+    "id": "A453",
+    "section": "A",
+    "topic": "dBd i dBi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Antena ima dobitak 3 dBd. Koliko je to približno u dBi?",
+    "options": [
+      "5.15 dBi",
+      "0.85 dBi",
+      "3 dBi",
+      "2.15 dBi"
+    ],
+    "correct": 0,
+    "explanation": "Preračunavanje je dBi = dBd + 2.15 = 3 + 2.15 = 5.15 dBi."
+  },
+  {
+    "id": "A454",
+    "section": "A",
+    "topic": "dBd i dBi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "easy",
+    "question": "Antena ima dobitak 6 dBi. Koliko je to približno u dBd?",
+    "options": [
+      "3.85 dBd",
+      "8.15 dBd",
+      "6 dBd",
+      "2.15 dBd"
+    ],
+    "correct": 0,
+    "explanation": "Preračunavanje je dBd = dBi - 2.15 = 6 - 2.15 = 3.85 dBd."
+  },
+  {
+    "id": "A455",
+    "section": "A",
+    "topic": "dBd i dBi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Antena ima dobitak 0 dBd. Koliko je to u dBi?",
+    "options": [
+      "2.15 dBi",
+      "0 dBi",
+      "-2.15 dBi",
+      "4.3 dBi"
+    ],
+    "correct": 0,
+    "explanation": "dBi = dBd + 2.15, pa je 0 dBd = 2.15 dBi."
+  },
+  {
+    "id": "A456",
+    "section": "A",
+    "topic": "dBd i dBi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Antena ima dobitak 2.15 dBi. Koliko je to u dBd?",
+    "options": [
+      "0 dBd",
+      "2.15 dBd",
+      "4.3 dBd",
+      "-2.15 dBd"
+    ],
+    "correct": 0,
+    "explanation": "dBd = dBi - 2.15, pa je 2.15 dBi = 0 dBd."
+  },
+  {
+    "id": "A457",
+    "section": "A",
+    "topic": "dBd i dBi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Antena ima dobitak 8.15 dBi. Koliko je to u dBd?",
+    "options": [
+      "6 dBd",
+      "10.3 dBd",
+      "8.15 dBd",
+      "4 dBd"
+    ],
+    "correct": 0,
+    "explanation": "dBd = dBi - 2.15 = 8.15 - 2.15 = 6 dBd."
+  },
+  {
+    "id": "A458",
+    "section": "A",
+    "topic": "dBd i dBi",
+    "sourceType": "PRIRUCNIK",
+    "sourceRef": "Priručnik za polaganje ispita za radio-amaterske licence, računski primeri",
+    "sourcePage": 0,
+    "confidence": "high",
+    "difficulty": "medium",
+    "question": "Antena ima dobitak 10 dBd. Koliko je to približno u dBi?",
+    "options": [
+      "12.15 dBi",
+      "7.85 dBi",
+      "10 dBi",
+      "21.5 dBi"
+    ],
+    "correct": 0,
+    "explanation": "dBi = dBd + 2.15 = 10 + 2.15 = 12.15 dBi."
+  }
+]
