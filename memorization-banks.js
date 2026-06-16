@@ -3626,7 +3626,62 @@ window.MEMORIZATION_BANKS = [
         "source": "simplex_kanali_vezbanje.txt"
       }
     ],
-    "questionCount": 201
+    "questionCount": 201,
+    "studyNotes": [
+      {
+        "title": "2 m simpleks kanali / V kanali",
+        "lines": [
+          "Po?etni kanal: S8 = V16",
+          "Frekvencija V16/S8: 145.2000 MHz",
+          "Korak kanala: 12.5 kHz",
+          "Stari nazivi idu redom: S8, S8x, S9, S9x, S10, S10x..."
+        ],
+        "formulas": [
+          "frekvencija slede?eg kanala = frekvencija prethodnog kanala + 0.0125 MHz",
+          "frekvencija V kanala = 145.2000 MHz + (broj V kanala - 16) x 0.0125 MHz"
+        ],
+        "examples": [
+          "V17 = 145.2000 + 0.0125 = 145.2125 MHz",
+          "V18 = 145.2000 + 2 x 0.0125 = 145.2250 MHz",
+          "V20 = 145.2000 + 4 x 0.0125 = 145.2500 MHz"
+        ]
+      },
+      {
+        "title": "70 cm simpleks kanali / U kanali",
+        "lines": [
+          "Po?etni kanal: SU16 = U272",
+          "Frekvencija U272/SU16: 433.4000 MHz",
+          "Korak kanala: 12.5 kHz",
+          "Stari nazivi idu redom: SU16, SU16x, SU17, SU17x, SU18, SU18x..."
+        ],
+        "formulas": [
+          "frekvencija slede?eg kanala = frekvencija prethodnog kanala + 0.0125 MHz",
+          "frekvencija U kanala = 433.4000 MHz + (broj U kanala - 272) x 0.0125 MHz"
+        ],
+        "examples": [
+          "U273 = 433.4000 + 0.0125 = 433.4125 MHz",
+          "U274 = 433.4000 + 2 x 0.0125 = 433.4250 MHz",
+          "U280 = 433.4000 + 8 x 0.0125 = 433.5000 MHz"
+        ]
+      },
+      {
+        "title": "Kako re?avati zadatke za simpleks kanale",
+        "lines": [
+          "Prvo prepoznaj opseg: V kanal je 2 m, U kanal je 70 cm.",
+          "Na oba opsega korak je 12.5 kHz = 0.0125 MHz.",
+          "Novi naziv kanala raste za 1 za svaki slede?i kanal.",
+          "Kod starih naziva smenjuju se ceo kanal i x kanal.",
+          "Primer za 2 m: S8, S8x, S9, S9x...",
+          "Primer za 70 cm: SU16, SU16x, SU17, SU17x..."
+        ],
+        "formulas": [
+          "broj koraka V = broj V kanala - 16",
+          "frekvencija V = 145.2000 + broj koraka x 0.0125 MHz",
+          "broj koraka U = broj U kanala - 272",
+          "frekvencija U = 433.4000 + broj koraka x 0.0125 MHz"
+        ]
+      }
+    ]
   },
   {
     "bankId": "memo-repetitori",
@@ -7956,7 +8011,89 @@ window.MEMORIZATION_BANKS = [
         "source": "repetitori_vezbanje.txt"
       }
     ],
-    "questionCount": 240
+    "questionCount": 240,
+    "studyNotes": [
+      {
+        "title": "2 m repetitori / RV kanali",
+        "lines": [
+          "Po?etni kanal: R0 = RV48",
+          "Ulaz R0/RV48: 145.0000 MHz",
+          "Izlaz R0/RV48: 145.6000 MHz",
+          "Pomak: -600 kHz",
+          "Korak kanala: 12.5 kHz",
+          "Stari nazivi idu redom: R0, R0x, R1, R1x, R2, R2x..."
+        ],
+        "formulas": [
+          "ulaz = izlaz - 0.600 MHz",
+          "izlaz = ulaz + 0.600 MHz",
+          "frekvencija slede?eg kanala = frekvencija prethodnog kanala + 0.0125 MHz"
+        ],
+        "examples": [
+          "RV49 je jedan kanal posle RV48.",
+          "RV49 ulaz = 145.0000 + 0.0125 = 145.0125 MHz",
+          "RV49 izlaz = 145.6000 + 0.0125 = 145.6125 MHz"
+        ]
+      },
+      {
+        "title": "70 cm repetitori / RU kanali",
+        "lines": [
+          "Po?etni kanal: RU0 = RU368",
+          "Ulaz RU0/RU368: 433.0000 MHz",
+          "Izlaz RU0/RU368: 434.6000 MHz",
+          "Pomak: -1600 kHz",
+          "Korak kanala: 12.5 kHz",
+          "Stari nazivi idu redom: RU0, RU0x, RU1, RU1x, RU2, RU2x..."
+        ],
+        "formulas": [
+          "ulaz = izlaz - 1.600 MHz",
+          "izlaz = ulaz + 1.600 MHz",
+          "frekvencija slede?eg kanala = frekvencija prethodnog kanala + 0.0125 MHz"
+        ],
+        "examples": [
+          "RU369 je jedan kanal posle RU368.",
+          "RU369 ulaz = 433.0000 + 0.0125 = 433.0125 MHz",
+          "RU369 izlaz = 434.6000 + 0.0125 = 434.6125 MHz"
+        ]
+      },
+      {
+        "title": "23 cm repetitori / RM kanali",
+        "lines": [
+          "Po?etni kanal: RM0",
+          "Ulaz RM0: 1291.000 MHz",
+          "Izlaz RM0: 1297.000 MHz",
+          "Pomak: -6000 kHz",
+          "Korak kanala: 25 kHz"
+        ],
+        "formulas": [
+          "ulaz = izlaz - 6.000 MHz",
+          "izlaz = ulaz + 6.000 MHz",
+          "frekvencija slede?eg kanala = frekvencija prethodnog kanala + 0.025 MHz"
+        ],
+        "examples": [
+          "RM1 je jedan kanal posle RM0.",
+          "RM1 ulaz = 1291.000 + 0.025 = 1291.025 MHz",
+          "RM1 izlaz = 1297.000 + 0.025 = 1297.025 MHz"
+        ]
+      },
+      {
+        "title": "Kako re?avati zadatke za repetitore",
+        "lines": [
+          "Prvo prepoznaj opseg: RV = 2 m, RU = 70 cm, RM = 23 cm.",
+          "Ako je data izlazna frekvencija, ulaz dobija? oduzimanjem pomaka.",
+          "Ako je data ulazna frekvencija, izlaz dobija? dodavanjem pomaka.",
+          "Ako je dat kanal, izra?unaj koliko je koraka udaljen od po?etnog kanala.",
+          "Na RV i RU kanalima jedan korak je 12.5 kHz = 0.0125 MHz.",
+          "Na RM kanalima jedan korak je 25 kHz = 0.025 MHz."
+        ],
+        "formulas": [
+          "broj koraka = novi broj kanala - po?etni broj kanala",
+          "frekvencija = po?etna frekvencija + broj koraka x korak",
+          "RV: ulaz = izlaz - 0.600 MHz",
+          "RU: ulaz = izlaz - 1.600 MHz",
+          "RM: ulaz = izlaz - 6.000 MHz"
+        ]
+      }
+    ]
   },
   {
     "bankId": "memo-band-plan",

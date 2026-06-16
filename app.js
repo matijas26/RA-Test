@@ -53,7 +53,8 @@ const state = {
   remainingSeconds: EXAM_DURATION_SECONDS,
   statsCandidate: "all",
   memoBankId: "",
-  memoCorrectCount: 0
+  memoCorrectCount: 0,
+  memoHelpBankId: ""
 };
 
 const app = document.getElementById("app");
@@ -182,6 +183,7 @@ app.addEventListener("click", (event) => {
   const answer = button.dataset.answerIndex;
   const jumpIndex = button.dataset.jumpIndex;
   const memoBankId = button.dataset.memoBankId;
+  const startMemoBankId = button.dataset.startMemoBankId;
   const memoAnswer = button.dataset.memoAnswerIndex;
 
   if (action === "start-exam") startExam();
@@ -189,6 +191,7 @@ app.addEventListener("click", (event) => {
   if (action === "memo-modules") renderMemorizationModules();
   if (action === "memo-next") nextMemorizationQuestion();
   if (action === "memo-restart") restartMemorizationBank();
+  if (action === "toggle-memo-help") toggleMemorizationHelp(memoBankId);
   if (action === "review") renderWrongAnswers();
   if (action === "stats") renderStatistics();
   if (action === "continue-active") continueActiveExam();
@@ -200,7 +203,7 @@ app.addEventListener("click", (event) => {
   if (action === "trigger-import") document.getElementById("statsImportFile")?.click();
   if (action === "reset-stats") resetStatistics();
   if (section) startPractice(section);
-  if (memoBankId) startMemorization(memoBankId);
+  if (startMemoBankId) startMemorization(startMemoBankId);
   if (memoAnswer !== undefined) selectMemorizationAnswer(Number(memoAnswer));
   if (answer !== undefined) selectAnswer(Number(answer));
   if (jumpIndex !== undefined) goToQuestion(Number(jumpIndex));
@@ -283,12 +286,61 @@ function renderMemorizationModules() {
               <p class="memo-count">${getMemoQuestionCount(bank)} pitanja</p>
               ${renderMemorizationBankStats(bank, memoStats)}
             </div>
-            <button class="primary" type="button" data-memo-bank-id="${escapeAttribute(bank.bankId)}">Start</button>
+            ${renderMemorizationCardActions(bank)}
+            ${state.memoHelpBankId === bank.bankId ? renderMemorizationHelp(bank) : ""}
           </article>
         `).join("")}
       </div>
     </section>
   `;
+}
+
+function renderMemorizationCardActions(bank) {
+  const hasHelp = hasMemorizationHelp(bank);
+  return `
+    <div class="memo-card-actions">
+      <button class="primary" type="button" data-start-memo-bank-id="${escapeAttribute(bank.bankId)}">Start</button>
+      ${hasHelp
+        ? `<button class="ghost" type="button" data-action="toggle-memo-help" data-memo-bank-id="${escapeAttribute(bank.bankId)}">${state.memoHelpBankId === bank.bankId ? "Sakrij pravila" : "Pravila"}</button>`
+        : ""}
+    </div>
+  `;
+}
+
+function renderMemorizationHelp(bank) {
+  if (!hasMemorizationHelp(bank)) return "";
+  return `
+    <div class="memo-help-panel">
+      ${bank.studyNotes.map((section) => `
+        <section class="memo-help-section">
+          <h4 class="memo-help-title">${escapeHtml(section.title)}</h4>
+          ${renderMemoHelpList(section.lines, "memo-help-list")}
+          ${renderMemoHelpList(section.formulas, "memo-help-list memo-formulas", "memo-formula")}
+          ${renderMemoHelpList(section.examples, "memo-help-list memo-examples", "memo-example")}
+        </section>
+      `).join("")}
+    </div>
+  `;
+}
+
+function renderMemoHelpList(items, listClass, itemClass = "") {
+  if (!Array.isArray(items) || items.length === 0) return "";
+  return `
+    <ul class="${listClass}">
+      ${items.map((item) => `<li class="${itemClass}">${escapeHtml(item)}</li>`).join("")}
+    </ul>
+  `;
+}
+
+function hasMemorizationHelp(bank) {
+  return Array.isArray(bank.studyNotes) && bank.studyNotes.length > 0;
+}
+
+function toggleMemorizationHelp(bankId) {
+  const bank = getMemorizationBank(bankId);
+  if (!hasMemorizationHelp(bank)) return;
+  state.memoHelpBankId = state.memoHelpBankId === bankId ? "" : bankId;
+  renderMemorizationModules();
 }
 
 function renderMemorizationBankStats(bank, memoStats) {

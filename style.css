@@ -294,13 +294,71 @@ h3 {
   margin-bottom: 10px;
 }
 
-.memo-card .primary {
+.memo-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.memo-card-actions .primary,
+.memo-card-actions .ghost {
   align-self: flex-start;
 }
 
 .memo-count {
   color: var(--text);
   font-weight: 800;
+}
+
+.memo-help-panel {
+  display: grid;
+  gap: 12px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface-strong);
+}
+
+.memo-help-section {
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.memo-help-title {
+  margin: 0 0 8px;
+  font-size: 1rem;
+  font-weight: 800;
+}
+
+.memo-help-list {
+  display: grid;
+  gap: 6px;
+  margin: 8px 0 0;
+  padding-left: 18px;
+}
+
+.memo-formulas,
+.memo-examples {
+  padding-left: 0;
+  list-style: none;
+}
+
+.memo-formula {
+  padding: 8px 10px;
+  overflow-wrap: anywhere;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #f8fafc;
+  font-family: Consolas, "Courier New", monospace;
+  font-size: 0.95rem;
+}
+
+.memo-example {
+  padding: 8px 10px;
+  border-left: 4px solid var(--primary);
+  background: #f8fafc;
 }
 
 .question-panel {
@@ -655,6 +713,7 @@ h3 {
   .topbar-actions button,
   .actions button,
   .result-actions button,
+  .memo-card-actions button,
   .profile-manager button {
     width: 100%;
   }
