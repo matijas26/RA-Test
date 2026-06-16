@@ -69,6 +69,12 @@ window.addEventListener("beforeunload", () => {
   stopTimer();
 });
 
+window.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && state.memoHelpBankId) {
+    closeMemorizationHelp();
+  }
+});
+
 const activeExam = loadActiveExam();
 if (activeExam) {
   renderActiveExamNotice(activeExam);
@@ -78,6 +84,7 @@ if (activeExam) {
 
 function renderHome() {
   stopTimer();
+  closeMemorizationHelp({ render: false });
   state.mode = "home";
   const profiles = loadProfiles();
   if (state.selectedCandidate && !profiles.includes(state.selectedCandidate)) {
@@ -175,6 +182,11 @@ app.addEventListener("change", (event) => {
 });
 
 app.addEventListener("click", (event) => {
+  if (event.target.classList?.contains("memo-help-backdrop")) {
+    closeMemorizationHelp();
+    return;
+  }
+
   const button = event.target.closest("button");
   if (!button) return;
 
@@ -191,7 +203,8 @@ app.addEventListener("click", (event) => {
   if (action === "memo-modules") renderMemorizationModules();
   if (action === "memo-next") nextMemorizationQuestion();
   if (action === "memo-restart") restartMemorizationBank();
-  if (action === "toggle-memo-help") toggleMemorizationHelp(memoBankId);
+  if (action === "open-memo-help") openMemorizationHelp(memoBankId);
+  if (action === "close-memo-help") closeMemorizationHelp();
   if (action === "review") renderWrongAnswers();
   if (action === "stats") renderStatistics();
   if (action === "continue-active") continueActiveExam();
@@ -287,12 +300,13 @@ function renderMemorizationModules() {
               ${renderMemorizationBankStats(bank, memoStats)}
             </div>
             ${renderMemorizationCardActions(bank)}
-            ${state.memoHelpBankId === bank.bankId ? renderMemorizationHelp(bank) : ""}
           </article>
         `).join("")}
       </div>
     </section>
+    ${renderMemorizationHelpModal(getMemorizationBank(state.memoHelpBankId))}
   `;
+  syncMemorizationHelpScrollLock();
 }
 
 function renderMemorizationCardActions(bank) {
@@ -301,24 +315,34 @@ function renderMemorizationCardActions(bank) {
     <div class="memo-card-actions">
       <button class="primary" type="button" data-start-memo-bank-id="${escapeAttribute(bank.bankId)}">Start</button>
       ${hasHelp
-        ? `<button class="ghost" type="button" data-action="toggle-memo-help" data-memo-bank-id="${escapeAttribute(bank.bankId)}">${state.memoHelpBankId === bank.bankId ? "Sakrij pravila" : "Pravila"}</button>`
+        ? `<button class="ghost" type="button" data-action="open-memo-help" data-memo-bank-id="${escapeAttribute(bank.bankId)}">Pravila</button>`
         : ""}
     </div>
   `;
 }
 
-function renderMemorizationHelp(bank) {
+function renderMemorizationHelpModal(bank) {
   if (!hasMemorizationHelp(bank)) return "";
+  const title = bank.title;
   return `
-    <div class="memo-help-panel">
-      ${bank.studyNotes.map((section) => `
-        <section class="memo-help-section">
-          <h4 class="memo-help-title">${escapeHtml(section.title)}</h4>
-          ${renderMemoHelpList(section.lines, "memo-help-list")}
-          ${renderMemoHelpList(section.formulas, "memo-help-list memo-formulas", "memo-formula")}
-          ${renderMemoHelpList(section.examples, "memo-help-list memo-examples", "memo-example")}
-        </section>
-      `).join("")}
+    <div class="memo-help-backdrop" role="presentation">
+      <div class="memo-help-modal" role="dialog" aria-modal="true" aria-label="Pravila - ${escapeAttribute(title)}">
+        <header class="memo-help-header">
+          <h2>Pravila &mdash; ${escapeHtml(title)}</h2>
+          <button class="memo-help-close ghost" type="button" data-action="close-memo-help">Zatvori</button>
+        </header>
+        <div class="memo-help-body">
+          ${bank.studyNotes.map((section) => `
+            <section class="memo-help-section">
+              <h3 class="memo-help-title">${escapeHtml(section.title)}</h3>
+              ${renderMemoHelpList(section.lines, "memo-help-list")}
+              ${renderMemoHelpList(section.formulas, "memo-help-list memo-formulas", "memo-formula")}
+              ${renderMemoHelpList(section.examples, "memo-help-list memo-examples", "memo-example")}
+            </section>
+          `).join("")}
+        </div>
+        <button class="memo-help-close primary" type="button" data-action="close-memo-help">Zatvori</button>
+      </div>
     </div>
   `;
 }
@@ -333,14 +357,28 @@ function renderMemoHelpList(items, listClass, itemClass = "") {
 }
 
 function hasMemorizationHelp(bank) {
-  return Array.isArray(bank.studyNotes) && bank.studyNotes.length > 0;
+  return Boolean(bank) && Array.isArray(bank.studyNotes) && bank.studyNotes.length > 0;
 }
 
-function toggleMemorizationHelp(bankId) {
+function openMemorizationHelp(bankId) {
   const bank = getMemorizationBank(bankId);
   if (!hasMemorizationHelp(bank)) return;
-  state.memoHelpBankId = state.memoHelpBankId === bankId ? "" : bankId;
+  state.memoHelpBankId = bankId;
   renderMemorizationModules();
+}
+
+function closeMemorizationHelp({ render = true } = {}) {
+  if (!state.memoHelpBankId) {
+    syncMemorizationHelpScrollLock();
+    return;
+  }
+  state.memoHelpBankId = "";
+  syncMemorizationHelpScrollLock();
+  if (render && state.mode === "memo-picker") renderMemorizationModules();
+}
+
+function syncMemorizationHelpScrollLock() {
+  document.body.classList.toggle("memo-help-open", Boolean(state.memoHelpBankId));
 }
 
 function renderMemorizationBankStats(bank, memoStats) {
