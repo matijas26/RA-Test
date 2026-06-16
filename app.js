@@ -22,10 +22,19 @@ const STORAGE_KEYS = {
   candidateName: "ra-test-current-candidate",
   profiles: "ra-test-candidate-profiles",
   attempts: "ra-test-exam-attempts",
-  activeExam: "ra-test-active-exam"
+  activeExam: "ra-test-active-exam",
+  memoStats: "ra-test-memorization-stats"
 };
 
 const EXAM_DURATION_SECONDS = 60 * 60;
+const MEMO_BANK_ORDER = [
+  "memo-radio-spektar-opsezi",
+  "memo-dxcc-prefiksi",
+  "memo-band-plan",
+  "memo-repetitori",
+  "memo-simplex-kanali",
+  "memo-q-kodovi-skracenice"
+];
 
 const state = {
   mode: "home",
@@ -42,7 +51,9 @@ const state = {
   timerId: null,
   timerLastTick: null,
   remainingSeconds: EXAM_DURATION_SECONDS,
-  statsCandidate: "all"
+  statsCandidate: "all",
+  memoBankId: "",
+  memoCorrectCount: 0
 };
 
 const app = document.getElementById("app");
@@ -95,6 +106,7 @@ function renderHome() {
         <div class="actions">
           <button class="primary" type="button" data-action="start-exam" ${state.selectedCandidate ? "" : "disabled"}>Novi test</button>
           <button class="secondary" type="button" data-action="practice">Vežbaj oblast</button>
+          <button class="secondary" type="button" data-action="memo-modules">Memorijske tabele</button>
           <button class="ghost" type="button" data-action="review" ${state.lastExam ? "" : "disabled"}>Pregled grešaka</button>
           <button class="ghost" type="button" data-action="stats">Statistika</button>
           <button class="danger-action" type="button" data-action="delete-candidate" ${state.selectedCandidate ? "" : "disabled"}>Obriši kandidata</button>
@@ -169,9 +181,14 @@ app.addEventListener("click", (event) => {
   const section = button.dataset.practiceSection;
   const answer = button.dataset.answerIndex;
   const jumpIndex = button.dataset.jumpIndex;
+  const memoBankId = button.dataset.memoBankId;
+  const memoAnswer = button.dataset.memoAnswerIndex;
 
   if (action === "start-exam") startExam();
   if (action === "practice") renderPracticePicker();
+  if (action === "memo-modules") renderMemorizationModules();
+  if (action === "memo-next") nextMemorizationQuestion();
+  if (action === "memo-restart") restartMemorizationBank();
   if (action === "review") renderWrongAnswers();
   if (action === "stats") renderStatistics();
   if (action === "continue-active") continueActiveExam();
@@ -183,6 +200,8 @@ app.addEventListener("click", (event) => {
   if (action === "trigger-import") document.getElementById("statsImportFile")?.click();
   if (action === "reset-stats") resetStatistics();
   if (section) startPractice(section);
+  if (memoBankId) startMemorization(memoBankId);
+  if (memoAnswer !== undefined) selectMemorizationAnswer(Number(memoAnswer));
   if (answer !== undefined) selectAnswer(Number(answer));
   if (jumpIndex !== undefined) goToQuestion(Number(jumpIndex));
   if (action === "prev") goToQuestion(state.currentIndex - 1);
@@ -238,6 +257,205 @@ function renderPracticePicker() {
       </div>
     </section>
   `;
+}
+
+function renderMemorizationModules() {
+  stopTimer();
+  state.mode = "memo-picker";
+  const banks = getMemorizationBanks();
+  if (banks.length === 0) {
+    renderError("Memorijske tabele nisu učitane. Proveri memorization-banks.js.");
+    return;
+  }
+
+  const memoStats = loadMemorizationStats();
+  app.innerHTML = `
+    <section class="panel">
+      <h2>Memorijske tabele</h2>
+      <p class="muted">Izaberi segment za intenzivno vežbanje tabela i skraćenica. Ova pitanja su odvojena od simulacije ispita.</p>
+      <div class="memo-grid">
+        ${banks.map((bank) => `
+          <article class="memo-card">
+            <div>
+              <p class="meta">${escapeHtml(bank.shortTitle || bank.category || "Memorija")}</p>
+              <h3>${escapeHtml(bank.title)}</h3>
+              <p>${escapeHtml(bank.description)}</p>
+              <p class="memo-count">${getMemoQuestionCount(bank)} pitanja</p>
+              ${renderMemorizationBankStats(bank, memoStats)}
+            </div>
+            <button class="primary" type="button" data-memo-bank-id="${escapeAttribute(bank.bankId)}">Start</button>
+          </article>
+        `).join("")}
+      </div>
+    </section>
+  `;
+}
+
+function renderMemorizationBankStats(bank, memoStats) {
+  const attempts = memoStats.filter((attempt) => attempt.bankId === bank.bankId);
+  if (attempts.length === 0) return `<p class="meta">Bez zabeleženih pokušaja.</p>`;
+
+  const best = attempts.reduce((currentBest, attempt) => {
+    return attempt.percentage > currentBest.percentage ? attempt : currentBest;
+  }, attempts[0]);
+  const latest = [...attempts].sort((a, b) => b.dateIso.localeCompare(a.dateIso))[0];
+  return `<p class="meta">Najbolje: ${best.score}/${best.total} (${best.percentage}%) · poslednje: ${latest.score}/${latest.total}</p>`;
+}
+
+function startMemorization(bankId) {
+  const bank = getMemorizationBank(bankId);
+  if (!bank) {
+    renderError("Izabrana memorijska tabela nije pronađena.");
+    return;
+  }
+
+  const validation = validateMemorizationBank(bank);
+  if (!validation.ok) {
+    renderError(validation.message);
+    return;
+  }
+
+  stopTimer();
+  state.mode = "memorization";
+  state.memoBankId = bank.bankId;
+  state.memoCorrectCount = 0;
+  state.questions = shuffle(bank.questions).map(prepareQuestion);
+  state.answers = Array(state.questions.length).fill(null);
+  state.currentIndex = 0;
+  renderMemorizationQuestion();
+}
+
+function renderMemorizationQuestion() {
+  const bank = getMemorizationBank(state.memoBankId);
+  const question = state.questions[state.currentIndex];
+  if (!bank || !question) {
+    renderMemorizationModules();
+    return;
+  }
+
+  const selected = state.answers[state.currentIndex];
+  const answered = selected !== null;
+  const progress = Math.round(((state.currentIndex + 1) / state.questions.length) * 100);
+  const isLast = state.currentIndex === state.questions.length - 1;
+
+  app.innerHTML = `
+    <section class="question-panel">
+      <div class="exam-header">
+        <div class="progress-row">
+          <span>${escapeHtml(bank.shortTitle || bank.title)} · pitanje ${state.currentIndex + 1}/${state.questions.length}</span>
+          <span>${escapeHtml(question.group || question.topic)}</span>
+        </div>
+      </div>
+      <div class="progress-track" aria-hidden="true">
+        <div class="progress-fill" style="width: ${progress}%"></div>
+      </div>
+      <h2 class="question-text">${escapeHtml(question.question)}</h2>
+      <p class="meta">${escapeHtml(bank.title)}</p>
+      <div class="answers">
+        ${question.options.map((option, index) => {
+          const classes = ["answer-card"];
+          if (selected === index) classes.push("selected");
+          if (answered && index === question.correct) classes.push("correct");
+          if (answered && selected === index && index !== question.correct) classes.push("incorrect");
+          return `
+            <button class="${classes.join(" ")}" type="button" data-memo-answer-index="${index}" ${answered ? "disabled" : ""}>
+              ${escapeHtml(option)}
+            </button>
+          `;
+        }).join("")}
+      </div>
+      ${answered ? renderMemorizationFeedback(question, selected) : ""}
+      <div class="nav-actions">
+        <button class="ghost" type="button" data-action="memo-modules">Memorijske tabele</button>
+        <button class="primary" type="button" data-action="memo-next" ${answered ? "" : "disabled"}>${isLast ? "Završi" : "Sledeće pitanje"}</button>
+      </div>
+    </section>
+  `;
+}
+
+function renderMemorizationFeedback(question, selected) {
+  const isCorrect = selected === question.correct;
+  return `
+    <div class="feedback ${isCorrect ? "success" : "fail"}">
+      <strong>${isCorrect ? "Tačno" : "Netačno"}</strong>
+      <p>Tačan odgovor: ${escapeHtml(question.options[question.correct])}</p>
+      <p>${escapeHtml(question.explanation)}</p>
+      ${renderQuestionMeta(question)}
+    </div>
+  `;
+}
+
+function selectMemorizationAnswer(index) {
+  if (state.mode !== "memorization") return;
+  const question = state.questions[state.currentIndex];
+  if (!question || state.answers[state.currentIndex] !== null) return;
+  if (!Number.isInteger(index) || index < 0 || index >= question.options.length) return;
+
+  state.answers[state.currentIndex] = index;
+  if (index === question.correct) state.memoCorrectCount += 1;
+  renderMemorizationQuestion();
+}
+
+function nextMemorizationQuestion() {
+  if (state.mode !== "memorization") return;
+  if (state.answers[state.currentIndex] === null) return;
+
+  if (state.currentIndex + 1 >= state.questions.length) {
+    finishMemorizationBank();
+    return;
+  }
+
+  state.currentIndex += 1;
+  renderMemorizationQuestion();
+}
+
+function finishMemorizationBank() {
+  const bank = getMemorizationBank(state.memoBankId);
+  if (!bank) {
+    renderMemorizationModules();
+    return;
+  }
+
+  const total = state.questions.length;
+  const answered = state.answers.filter((answer) => answer !== null).length;
+  const percentage = total ? Math.round((state.memoCorrectCount / total) * 100) : 0;
+  const result = {
+    bankId: bank.bankId,
+    title: bank.title,
+    dateIso: new Date().toISOString(),
+    score: state.memoCorrectCount,
+    answered,
+    total,
+    percentage
+  };
+  saveMemorizationAttempt(result);
+  renderMemorizationResult(result);
+}
+
+function renderMemorizationResult(result) {
+  state.mode = "memo-result";
+  app.innerHTML = `
+    <section class="result-banner pass">
+      <h2>Rezultat memorijske tabele</h2>
+      <p class="status pass">${result.percentage}%</p>
+      <p>${escapeHtml(result.title)}</p>
+      <p>Tačno: <strong>${result.score}/${result.total}</strong> · odgovoreno: <strong>${result.answered}/${result.total}</strong></p>
+    </section>
+    <section class="panel">
+      <div class="result-actions">
+        <button class="primary" type="button" data-action="memo-restart">Ponovi istu tabelu</button>
+        <button class="ghost" type="button" data-action="memo-modules">Memorijske tabele</button>
+      </div>
+    </section>
+  `;
+}
+
+function restartMemorizationBank() {
+  if (!state.memoBankId) {
+    renderMemorizationModules();
+    return;
+  }
+  startMemorization(state.memoBankId);
 }
 
 function startPractice(section) {
@@ -722,6 +940,37 @@ function loadAttempts() {
   }
 }
 
+function saveMemorizationAttempt(result) {
+  const attempts = loadMemorizationStats();
+  attempts.push({
+    bankId: result.bankId,
+    title: result.title,
+    dateIso: result.dateIso,
+    score: result.score,
+    answered: result.answered,
+    total: result.total,
+    percentage: result.percentage
+  });
+  localStorage.setItem(STORAGE_KEYS.memoStats, JSON.stringify(attempts.slice(-100)));
+}
+
+function loadMemorizationStats() {
+  try {
+    const parsed = JSON.parse(localStorage.getItem(STORAGE_KEYS.memoStats) || "[]");
+    if (!Array.isArray(parsed)) return [];
+    return parsed.filter((attempt) => {
+      return attempt
+        && typeof attempt.bankId === "string"
+        && typeof attempt.dateIso === "string"
+        && Number.isInteger(attempt.score)
+        && Number.isInteger(attempt.total)
+        && Number.isInteger(attempt.percentage);
+    });
+  } catch {
+    return [];
+  }
+}
+
 function continueActiveExam() {
   const activeExam = loadActiveExam();
   if (!activeExam) {
@@ -1041,6 +1290,47 @@ function updateRemainingTime() {
   if (elapsedSeconds <= 0) return;
   state.remainingSeconds = Math.max(0, state.remainingSeconds - elapsedSeconds);
   state.timerLastTick += elapsedSeconds * 1000;
+}
+
+function getMemorizationBanks() {
+  if (!Array.isArray(window.MEMORIZATION_BANKS)) return [];
+  const byId = new Map(window.MEMORIZATION_BANKS.map((bank) => [bank.bankId, bank]));
+  const ordered = MEMO_BANK_ORDER.map((bankId) => byId.get(bankId)).filter(Boolean);
+  const remaining = window.MEMORIZATION_BANKS.filter((bank) => !MEMO_BANK_ORDER.includes(bank.bankId));
+  return [...ordered, ...remaining];
+}
+
+function getMemorizationBank(bankId) {
+  return getMemorizationBanks().find((bank) => bank.bankId === bankId) || null;
+}
+
+function getMemoQuestionCount(bank) {
+  return Number.isInteger(bank.questionCount) ? bank.questionCount : bank.questions.length;
+}
+
+function validateMemorizationBank(bank) {
+  if (!bank || typeof bank !== "object") {
+    return { ok: false, message: "Memorijska tabela nije ispravna." };
+  }
+  if (!Array.isArray(bank.questions) || bank.questions.length === 0) {
+    return { ok: false, message: `Tabela ${bank.title || bank.bankId} nema pitanja.` };
+  }
+  const invalidQuestion = bank.questions.find((question) => {
+    return !question
+      || typeof question.id !== "string"
+      || !Array.isArray(question.options)
+      || question.options.length !== 4
+      || !question.options.every((option) => typeof option === "string" && option.trim())
+      || !Number.isInteger(question.correct)
+      || question.correct < 0
+      || question.correct >= question.options.length
+      || typeof question.question !== "string"
+      || !question.question.trim();
+  });
+  if (invalidQuestion) {
+    return { ok: false, message: `Tabela ${bank.title || bank.bankId} ima neispravno pitanje ${invalidQuestion.id || ""}.` };
+  }
+  return { ok: true };
 }
 
 function getQuestionsBySection(section) {

@@ -267,6 +267,42 @@ h3 {
   font-size: 1.1rem;
 }
 
+.memo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.memo-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 16px;
+  min-height: 240px;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.memo-card h3 {
+  margin-bottom: 8px;
+}
+
+.memo-card p {
+  margin-bottom: 10px;
+}
+
+.memo-card .primary {
+  align-self: flex-start;
+}
+
+.memo-count {
+  color: var(--text);
+  font-weight: 800;
+}
+
 .question-panel {
   padding: clamp(18px, 3vw, 30px);
 }
@@ -626,6 +662,7 @@ h3 {
   .hero,
   .stats-grid,
   .score-grid,
+  .memo-grid,
   .answers,
   .wrong-grid,
   .attempt-item {
